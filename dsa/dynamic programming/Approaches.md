@@ -11,4 +11,5 @@ We can use memoization for recursion and tabulation (pretty much the same as mem
 
 Memoization is saving the calculations we've already done so we don't have to redo them again (which can be very costly). This lets us decrease the time complexity of a solution significantly.
 
-For the Fibonacci problem, we can turn the problem from $o(2^{n})$ to $o($
+For the Fibonacci problem, we can turn the problem from $o(2^{n})$ to $o(n)$. This is a HUGE performance improvement.
+
