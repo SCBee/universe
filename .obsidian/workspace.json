@@ -11,8 +11,12 @@
             "id": "5a6fb3571b6f1a3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dsa/dynamic programming/Approaches.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dsa/dynamic programming/Approaches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dsa/dynamic programming/Approaches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dsa/dynamic programming/Approaches.md"
+              }
             }
           },
           {
@@ -169,6 +177,12 @@
   },
   "active": "5a6fb3571b6f1a3c",
   "lastOpenFiles": [
+    "dsa/dynamic programming/What is DP?.md",
+    "dsa/dynamic programming/Approaches.md",
+    "dsa/dynamic programming/Elementary Problem.md",
+    "dsa/dynamic programming/Dynamic Programming.canvas",
+    "dsa/dynamic programming/Climbing Stairs.md",
+    "dsa/neetcode/Untitled.md",
     "dsa/neetcode/test.md",
     "test",
     "dsa/texts/[1] Competitive Programming 4 - Book 1.pdf",
@@ -193,7 +207,6 @@
     "enme585/stability/Nyquist Stability Criterion.md",
     "Atoms/Untitled.md",
     "enme585/quiz2/Open Loop vs Closed Loop.md",
-    "dsa/dynamic programming/What is DP?.md",
     "enme585/lab4/ENME 585 Lab 4 Prelab.md",
     "enel 582/chapter 1/Example 1-9.md",
     "enel 582/chapter 1/Example 1-1.md",
@@ -201,10 +214,6 @@
     "enel 582/chapter 1/Example 1-7.md",
     "enel 582/chapter 1/Induced Force on Wire.md",
     "enel 582/chapter 1/Electrical Machines.md",
-    "enel 582/chapter 1/Ampere_s Law.md",
-    "enel 582/Ideal Transformer.md",
-    "enel 582/chapter 1/Magnetic Field.md",
-    "enel 582/chapter 1/Magnetic Circuits.md",
     "DS&A/dynamic programming/Dynamic Programming.canvas",
     "assets/images/simple ampere_s law example.png",
     "assets/images/magnetic flux vs magnetomotive force.png",
