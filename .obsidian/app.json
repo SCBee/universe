@@ -1,0 +1,20 @@
+{
+  "showLineNumber": false,
+  "vimMode": true,
+  "trashOption": "system",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "assets/images",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "atoms",
+  "foldHeading": false,
+  "foldIndent": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false
+}

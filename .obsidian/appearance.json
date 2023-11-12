@@ -1,0 +1,15 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "base"
+  ],
+  "translucency": false,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "monospaceFontFamily": "SF Mono",
+  "textFontFamily": "SF Mono",
+  "interfaceFontFamily": "SF Mono",
+  "baseFontSize": 15
+}

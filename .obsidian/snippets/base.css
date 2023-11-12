@@ -1,0 +1,29 @@
+.MJX-TEX { font-size:100%; }
+
+
+@media print {
+    h1,
+    h2,
+    h3
+     {
+    	page-break-before: always;
+    }
+    h4,
+    h5,
+    h6
+    {
+    	page-break-before: avoid;
+    }
+    .pagebreak {page-break-before: always;}
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.markdown-source-view, .markdown-preview-view {
+max-width: 1000px;
+margin: auto;
+}
