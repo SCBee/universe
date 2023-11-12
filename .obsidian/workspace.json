@@ -11,8 +11,12 @@
             "id": "c7f7b71a8d9e7d3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dsa/neetcode/test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dsa/neetcode/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dsa/neetcode/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dsa/neetcode/test.md"
+              }
             }
           },
           {
@@ -169,6 +177,7 @@
   },
   "active": "c7f7b71a8d9e7d3c",
   "lastOpenFiles": [
+    "dsa/neetcode/test.md",
     "test",
     "dsa/texts/[1] Competitive Programming 4 - Book 1.pdf",
     "dsa/texts/[2] Competitive Programming 4 - Book 2.pdf",
@@ -183,7 +192,6 @@
     "enme585/quiz2/8 Root Locus Plotting.pdf",
     "enme585/quiz2/Step Response of Control Systems.md",
     "enme585/quiz2/7 Block Diagrams and Feedback Control.pdf",
-    "enme585/assignments/Assignment 2 Solutions.pdf",
     "atoms/assi.md",
     "enme585/stability/Root Locus Plots Stability Criterion.md",
     "enme585/quiz2/System Stability & Steady State.md",
