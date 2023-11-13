@@ -28,9 +28,29 @@
                 "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf"
               }
             }
+          },
+          {
+            "id": "1b493d5e494ff44f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cefb1cf2a1e35412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "atoms/Coffee Chat with Eric Peng.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
+                "file": "atoms/Coffee Chat with Eric Peng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
+                "file": "atoms/Coffee Chat with Eric Peng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf"
+                "file": "atoms/Coffee Chat with Eric Peng.md"
               }
             }
           },
@@ -187,8 +207,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "b4828a5dc700f32f",
+  "active": "cefb1cf2a1e35412",
   "lastOpenFiles": [
+    "atoms/Coffee Chat with Eric Peng.md",
+    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "atoms/Climbing Stairs.md",
     "dsa/dynamic programming/Approaches.md",
     "dsa/dynamic programming/What is DP?.md",
@@ -209,7 +231,6 @@
     "enme585/assignments/Assignment 3.pdf",
     "enme585/quiz2/8 Root Locus Plotting.pdf",
     "enme585/quiz2/Step Response of Control Systems.md",
-    "enme585/quiz2/7 Block Diagrams and Feedback Control.pdf",
     "atoms/assi.md",
     "enme585/stability/Root Locus Plots Stability Criterion.md",
     "enme585/quiz2/System Stability & Steady State.md",
@@ -225,7 +246,6 @@
     "enel 582/chapter 1/Example 1-6.md",
     "enel 582/chapter 1/Example 1-7.md",
     "enel 582/chapter 1/Induced Force on Wire.md",
-    "enel 582/chapter 1/Electrical Machines.md",
     "DS&A/dynamic programming/Dynamic Programming.canvas",
     "assets/images/simple ampere_s law example.png",
     "assets/images/magnetic flux vs magnetomotive force.png",
