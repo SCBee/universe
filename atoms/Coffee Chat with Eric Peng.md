@@ -7,7 +7,11 @@
 
 - He kept applying to all the jobs he could find.
 
-- Market is getting better, but it's not great.
+- Market is getting better, but it's not great. 
+
+- He didn't use a cover letter when applying to any of his roles.
+
+- Focus on the communication of the 
 
 
 https://github.com/ReaVNaiL/New-Grad-2024
