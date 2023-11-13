@@ -36,6 +36,5 @@ This is a variation of the climbing stairs problem, where we need to determine t
 
 We can use an iterative approach where we calculate the minimum cost for the next two steps. However, we can start from index 0 or index 1.
 
-[10, 15, 20]
 
 
