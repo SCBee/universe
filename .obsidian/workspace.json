@@ -30,14 +30,6 @@
             }
           },
           {
-            "id": "1b493d5e494ff44f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "cefb1cf2a1e35412",
             "type": "leaf",
             "state": {
@@ -50,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,8 +201,8 @@
   },
   "active": "cefb1cf2a1e35412",
   "lastOpenFiles": [
-    "atoms/Coffee Chat with Eric Peng.md",
     "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
+    "atoms/Coffee Chat with Eric Peng.md",
     "atoms/Climbing Stairs.md",
     "dsa/dynamic programming/Approaches.md",
     "dsa/dynamic programming/What is DP?.md",
@@ -245,7 +237,6 @@
     "enel 582/chapter 1/Example 1-1.md",
     "enel 582/chapter 1/Example 1-6.md",
     "enel 582/chapter 1/Example 1-7.md",
-    "enel 582/chapter 1/Induced Force on Wire.md",
     "DS&A/dynamic programming/Dynamic Programming.canvas",
     "assets/images/simple ampere_s law example.png",
     "assets/images/magnetic flux vs magnetomotive force.png",

@@ -11,7 +11,10 @@
 
 - He didn't use a cover letter when applying to any of his roles.
 
-- Focus on the communication of the 
+- Focus on the communication of the problem. Make sure to prepare well ahead of time.
+- 
+
+
 
 
 https://github.com/ReaVNaiL/New-Grad-2024
