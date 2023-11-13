@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91a52870fc0fe9a0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "5d68ec2475323658",
             "type": "leaf",
             "state": {
@@ -24,6 +16,16 @@
                 "file": "atoms/Climbing Stairs.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b4828a5dc700f32f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf"
               }
             }
           }
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "177267cf97c20f67",
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms/Climbing Stairs.md",
+                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms/Climbing Stairs.md",
+                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atoms/Climbing Stairs.md"
+                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf"
               }
             }
           },
@@ -184,7 +187,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "5d68ec2475323658",
+  "active": "b4828a5dc700f32f",
   "lastOpenFiles": [
     "atoms/Climbing Stairs.md",
     "dsa/dynamic programming/Approaches.md",
