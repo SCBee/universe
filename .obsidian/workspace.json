@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "40d2f507f08e4a0f",
+        "id": "fa1ce62777a30e42",
         "type": "tabs",
         "children": [
           {
-            "id": "5a6fb3571b6f1a3c",
+            "id": "91a52870fc0fe9a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d68ec2475323658",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa/dynamic programming/Approaches.md",
+                "file": "atoms/Climbing Stairs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa/dynamic programming/Approaches.md",
+                "file": "atoms/Climbing Stairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa/dynamic programming/Approaches.md",
+                "file": "atoms/Climbing Stairs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa/dynamic programming/Approaches.md"
+                "file": "atoms/Climbing Stairs.md"
               }
             }
           },
@@ -175,10 +184,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "5a6fb3571b6f1a3c",
+  "active": "5d68ec2475323658",
   "lastOpenFiles": [
-    "dsa/dynamic programming/What is DP?.md",
+    "atoms/Climbing Stairs.md",
     "dsa/dynamic programming/Approaches.md",
+    "dsa/dynamic programming/What is DP?.md",
     "dsa/dynamic programming/Elementary Problem.md",
     "dsa/dynamic programming/Dynamic Programming.canvas",
     "dsa/dynamic programming/Climbing Stairs.md",
@@ -189,7 +199,6 @@
     "dsa/texts/[2] Competitive Programming 4 - Book 2.pdf",
     "dsa/texts/Principles of Algorithmic Problem Solving.pdf",
     "obsidian",
-    "atoms/Untitled.md",
     "capstone/Nov 9 Sponsor Meeting.md",
     "dsa/CI_DSA_study_guide.pdf",
     "dsa/neetcode/Union-Find.md",
