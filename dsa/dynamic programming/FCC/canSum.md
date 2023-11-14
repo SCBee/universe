@@ -17,3 +17,6 @@ digraph G {
 5
 }
 ```
+
+Example:
+canSum(7, {5,3,4,7}) -> tru
