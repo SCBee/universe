@@ -14,7 +14,7 @@
 - Focus on the communication of the problem. Make sure to prepare well ahead of time.
 - Apply as long as I meet anywhere near the requirements.
 
-- Do basic proving that 
+- Do basic proving, don't waste a lot of time on this
 
 
 
