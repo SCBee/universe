@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "751b299dcf3feb2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dsa/dynamic programming/FCC/howSum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa/dynamic programming/FCC/canSum.md",
+                "file": "dsa/dynamic programming/FCC/howSum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa/dynamic programming/FCC/canSum.md",
+                "file": "dsa/dynamic programming/FCC/howSum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa/dynamic programming/FCC/canSum.md"
+                "file": "dsa/dynamic programming/FCC/howSum.md"
               }
             }
           },
@@ -186,8 +198,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "ecb3632a8dd49c8b",
+  "active": "751b299dcf3feb2a",
   "lastOpenFiles": [
+    "dsa/dynamic programming/FCC/canSum.md",
+    "dsa/dynamic programming/FCC/howSum.md",
+    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "assets/images/Pasted image 20231113203147.png",
     "assets/images/Pasted image 20231113195719.png",
     "dsa/dynamic programming/FCC/Memoization.md",
@@ -195,9 +210,6 @@
     "dsa/dynamic programming/FCC/countConstruct.md",
     "dsa/dynamic programming/FCC/canConstruct.md",
     "dsa/dynamic programming/FCC/bestSum.md",
-    "dsa/dynamic programming/FCC/howSum.md",
-    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
-    "dsa/dynamic programming/FCC/canSum.md",
     "dsa/dynamic programming/Approaches.md",
     "dsa/dynamic programming/Elementary Problem.md",
     "dsa/dynamic programming/What is DP?.md",
@@ -235,7 +247,6 @@
     "assets/images/induced force on wire.png",
     "assets/images/ideal transformer 1.png",
     "assets/images/example 1-9.png",
-    "assets/images/example 1-6.png",
     "ENEL 582/Untitled.canvas"
   ]
 }

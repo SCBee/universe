@@ -31,5 +31,29 @@ We can't sum up to 7 with the array `{2,4}`. We can return false as the default 
 
 Template Code:
 ```cpp
+int canSum(vector<int> v, int target, std::unordered_map<int, int>& m)
+{
+    if (target == 0) {
+        return true;
+    }
+    if (target < 0) {
+        return false;
+    }
+    if (m.count(target)) {
+        return m[target];
+    }
+
+    for (int i = 0; i < v.size(); ++i) {
+        const int remainder = target - v[i];
+        m[target] = canSum(v, remainder, m);
+        if (m[target]) {
+            return true;
+        }
+    }
+
+    return m[target] = false;
+}
 ```
+
+Using the logic from canSum, we can build the solution to [[howSum]].
 
