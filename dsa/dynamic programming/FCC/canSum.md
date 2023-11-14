@@ -9,7 +9,7 @@
 
 
 Example:
-	canSum(7, {5,3,4,7}) -> true
+	`canSum(7, {5,3,4,7}) -> true`
 
 
 ![[Pasted image 20231113195719.png]]
@@ -21,3 +21,10 @@ We can sum up to 7 by:
 
 So there are actually three ways to sum up to 7. We only need to find one so we can terminate the second we find a combination that returns true.
 
+Example:
+	`canSum(7, {2,4}) -> false`
+
+
+![[Pasted image 20231113203147.png]]
+
+We can't sum up to 7 with the array `{2,4}`. We can return false as the default case.
