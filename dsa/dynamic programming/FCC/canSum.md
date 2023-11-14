@@ -31,23 +31,5 @@ We can't sum up to 7 with the array `{2,4}`. We can return false as the default 
 
 Template Code:
 ```cpp
-int canSum(vector<int> v, int target)
-{
-    if (target == 0) {
-        return true;
-    }
-    if (target < 0) {
-        return false;
-    }
-
-    for (int i = 0; i < v.size(); ++i) {
-        const int remainder = target - v[i];
-        if (canSum(v, remainder)) {
-            return true;
-        }
-    }
-
-    return false;
-}
 ```
 
