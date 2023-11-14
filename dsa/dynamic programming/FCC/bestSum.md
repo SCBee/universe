@@ -19,3 +19,10 @@ Example:
 Example:
 	`bestSum(0, {1,2,3}) -> {}`
 
+
+![[Pasted image 20231114135139.png]]
+
+
+We could either have taken [2,2,2] or [3,3] to make up 6, but since [3,3] has fewer elements, we take [3,3].
+
+
