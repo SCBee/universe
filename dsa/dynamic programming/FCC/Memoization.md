@@ -1,3 +1,4 @@
+#DP #dsa 
 
 Memoization is saving previously calculated results so we don't have to recalculate expensive calculations.
 
@@ -14,10 +15,11 @@ The steps are:
 
 Further breaking down memoization problems:
 
-- canSum
-- howSum
-- bestSum
-- canConstruct
-- countConstruct
-- allConstruct
+
+- [[canSum]]
+- [[howSum]]
+- [[bestSum]]
+- [[canConstruct]]
+- [[countConstruct]]
+- [[allConstruct]]
 

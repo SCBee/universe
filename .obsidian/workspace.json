@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "bfd6ecc471f09b3b",
+            "id": "ecb3632a8dd49c8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa/dynamic programming/Elementary Problem.md",
+                "file": "dsa/dynamic programming/FCC/canSum.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa/dynamic programming/Elementary Problem.md",
+                "file": "dsa/dynamic programming/FCC/canSum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa/dynamic programming/Elementary Problem.md",
+                "file": "dsa/dynamic programming/FCC/canSum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa/dynamic programming/Elementary Problem.md"
+                "file": "dsa/dynamic programming/FCC/canSum.md"
               }
             }
           },
@@ -186,17 +186,26 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "bfd6ecc471f09b3b",
+  "active": "ecb3632a8dd49c8b",
   "lastOpenFiles": [
-    "dsa/dynamic programming/Climbing Stairs 1.md",
-    "dsa/dynamic programming/Climbing Stairs.md",
-    "dsa/dynamic programming/Dynamic Programming.canvas",
+    "dsa/dynamic programming/FCC/Memoization.md",
+    "dsa/dynamic programming/FCC/allConstruct.md",
+    "dsa/dynamic programming/FCC/countConstruct.md",
+    "dsa/dynamic programming/FCC/canConstruct.md",
+    "dsa/dynamic programming/FCC/bestSum.md",
+    "dsa/dynamic programming/FCC/howSum.md",
+    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
+    "dsa/dynamic programming/FCC/canSum.md",
+    "dsa/dynamic programming/Approaches.md",
     "dsa/dynamic programming/Elementary Problem.md",
     "dsa/dynamic programming/What is DP?.md",
-    "dsa/dynamic programming/Approaches.md",
+    "dsa/dynamic programming/neetcode/Climbing Stairs 1.md",
+    "dsa/dynamic programming/neetcode/Climbing Stairs.md",
+    "dsa/dynamic programming/neetcode",
+    "dsa/dynamic programming/FCC",
+    "dsa/dynamic programming/FCC.md",
+    "dsa/dynamic programming/Dynamic Programming.canvas",
     "dsa/dynamic programming/AMP-Chapter-11.pdf",
-    "atoms/Memoization.md",
-    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "career/Coffee Chat with Eric Peng.md",
     "dsa/neetcode/Untitled.md",
     "dsa/neetcode/test.md",
@@ -208,8 +217,6 @@
     "capstone/Nov 9 Sponsor Meeting.md",
     "dsa/CI_DSA_study_guide.pdf",
     "dsa/neetcode/Union-Find.md",
-    "enme585/assignments/Assignment 3 Solutions.pdf",
-    "enme585/assignments/Assignment 3.pdf",
     "enme585/quiz2/Step Response of Control Systems.md",
     "atoms/assi.md",
     "enme585/stability/Root Locus Plots Stability Criterion.md",
@@ -217,13 +224,6 @@
     "enme585/stability/Routh-Hurwitz Stability Criterion.md",
     "atoms/Speech Bubble Templates.md",
     "enme585/stability/Bode Plots Stability Criterion.md",
-    "enme585/stability/Nyquist Stability Criterion.md",
-    "Atoms/Untitled.md",
-    "enme585/quiz2/Open Loop vs Closed Loop.md",
-    "enme585/lab4/ENME 585 Lab 4 Prelab.md",
-    "enel 582/chapter 1/Example 1-9.md",
-    "enel 582/chapter 1/Example 1-1.md",
-    "enel 582/chapter 1/Example 1-6.md",
     "DS&A/dynamic programming/Dynamic Programming.canvas",
     "assets/images/simple ampere_s law example.png",
     "assets/images/magnetic flux vs magnetomotive force.png",
