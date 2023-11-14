@@ -23,5 +23,42 @@ Example:
 
 ![[Pasted image 20231114121749.png]]
 
-The decision tree for the first example. The leaf nodes that has a value of zero returns an empty vector.
+The decision tree for the first example. The leaf nodes that has a value of zero returns a vector with a single element (0). The leaf nodes that become negative (meaning the sum isn't possible) return an empty vector.
+
+Template Code:
+
+```cpp
+vector<int> howSum(vector<int> v, int target, unordered_map<int, vector<int>>& m)
+{
+    if (m.count(target))
+    {
+        return m[target];
+    }
+    else if (target == 0)
+    {
+        return {0};
+    }
+    else if (target < 0)
+    {
+        return {};
+    }
+
+    for (size_t i = 0; i < v.size(); i++)
+    {
+        const int remainder = target - v[i];
+
+        vector<int> remainderResult = howSum(v, remainder, m);
+        if (remainderResult.size())
+        {
+            remainderResult.push_back(v[i]);
+            m[target] = remainderResult;
+            return m[target];
+        }
+    }
+
+    return m[target] = {};
+}
+```
+
+Using [[canSum]] and howSum, we can build the solution for [[bestSum]].
 
