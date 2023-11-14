@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d68ec2475323658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "atoms/Climbing Stairs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b4828a5dc700f32f",
             "type": "leaf",
             "state": {
@@ -30,19 +18,19 @@
             }
           },
           {
-            "id": "cefb1cf2a1e35412",
+            "id": "bfd6ecc471f09b3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atoms/Coffee Chat with Eric Peng.md",
+                "file": "dsa/dynamic programming/Elementary Problem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329,
-    "collapsed": true
+    "width": 329
   },
   "right": {
     "id": "177267cf97c20f67",
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms/Coffee Chat with Eric Peng.md",
+                "file": "dsa/dynamic programming/Elementary Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms/Coffee Chat with Eric Peng.md",
+                "file": "dsa/dynamic programming/Elementary Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atoms/Coffee Chat with Eric Peng.md"
+                "file": "dsa/dynamic programming/Elementary Problem.md"
               }
             }
           },
@@ -199,16 +186,18 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "cefb1cf2a1e35412",
+  "active": "bfd6ecc471f09b3b",
   "lastOpenFiles": [
-    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
-    "atoms/Coffee Chat with Eric Peng.md",
-    "atoms/Climbing Stairs.md",
-    "dsa/dynamic programming/Approaches.md",
-    "dsa/dynamic programming/What is DP?.md",
-    "dsa/dynamic programming/Elementary Problem.md",
-    "dsa/dynamic programming/Dynamic Programming.canvas",
+    "dsa/dynamic programming/Climbing Stairs 1.md",
     "dsa/dynamic programming/Climbing Stairs.md",
+    "dsa/dynamic programming/Dynamic Programming.canvas",
+    "dsa/dynamic programming/Elementary Problem.md",
+    "dsa/dynamic programming/What is DP?.md",
+    "dsa/dynamic programming/Approaches.md",
+    "dsa/dynamic programming/AMP-Chapter-11.pdf",
+    "atoms/Memoization.md",
+    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
+    "career/Coffee Chat with Eric Peng.md",
     "dsa/neetcode/Untitled.md",
     "dsa/neetcode/test.md",
     "test",
@@ -221,7 +210,6 @@
     "dsa/neetcode/Union-Find.md",
     "enme585/assignments/Assignment 3 Solutions.pdf",
     "enme585/assignments/Assignment 3.pdf",
-    "enme585/quiz2/8 Root Locus Plotting.pdf",
     "enme585/quiz2/Step Response of Control Systems.md",
     "atoms/assi.md",
     "enme585/stability/Root Locus Plots Stability Criterion.md",
@@ -236,7 +224,6 @@
     "enel 582/chapter 1/Example 1-9.md",
     "enel 582/chapter 1/Example 1-1.md",
     "enel 582/chapter 1/Example 1-6.md",
-    "enel 582/chapter 1/Example 1-7.md",
     "DS&A/dynamic programming/Dynamic Programming.canvas",
     "assets/images/simple ampere_s law example.png",
     "assets/images/magnetic flux vs magnetomotive force.png",

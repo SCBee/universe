@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"452ca838d874661a","type":"text","text":"Dynamic Programming","x":-172,"y":-43,"width":250,"height":60},
-		{"id":"1adec8e2936f4d83","type":"text","text":"graph","x":200,"y":-300,"width":250,"height":180}
-	],
-	"edges":[
-		{"id":"968d3d4190130532","fromNode":"452ca838d874661a","fromSide":"top","toNode":"1adec8e2936f4d83","toSide":"left"}
-	]
-}
