@@ -8,15 +8,10 @@
 >Assume that the elements can be used infinite number of times and all numbers are positive.
 
 
-```dot
-digraph G {
-1
-2
-3
-4
-5
-}
-```
-
 Example:
-canSum(7, {5,3,4,7}) -> tru
+	canSum(7, {5,3,4,7}) -> true
+
+Using the numbers, {5,3,4,7}, can we sum the numbers to 7?
+
+
+
