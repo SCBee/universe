@@ -18,19 +18,19 @@
             }
           },
           {
-            "id": "ecb3632a8dd49c8b",
+            "id": "751b299dcf3feb2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa/dynamic programming/FCC/canSum.md",
+                "file": "dsa/dynamic programming/FCC/bestSum.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "751b299dcf3feb2a",
+            "id": "36ac8f26aa7b94b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa/dynamic programming/FCC/howSum.md",
+                "file": "dsa/dynamic programming/FCC/bestSum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa/dynamic programming/FCC/howSum.md",
+                "file": "dsa/dynamic programming/FCC/bestSum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa/dynamic programming/FCC/howSum.md"
+                "file": "dsa/dynamic programming/FCC/bestSum.md"
               }
             }
           },
@@ -200,8 +200,9 @@
   },
   "active": "751b299dcf3feb2a",
   "lastOpenFiles": [
-    "dsa/dynamic programming/FCC/canSum.md",
     "dsa/dynamic programming/FCC/howSum.md",
+    "dsa/dynamic programming/FCC/bestSum.md",
+    "dsa/dynamic programming/FCC/canSum.md",
     "assets/images/Pasted image 20231114121749.png",
     "dsa/notes_algos/Lec9_Lec10_Graphs_S23.pdf",
     "dsa/notes_algos/Lec8_Heaps_S23.pdf",
@@ -221,7 +222,6 @@
     "dsa/dynamic programming/FCC/allConstruct.md",
     "dsa/dynamic programming/FCC/countConstruct.md",
     "dsa/dynamic programming/FCC/canConstruct.md",
-    "dsa/dynamic programming/FCC/bestSum.md",
     "dsa/dynamic programming/Approaches.md",
     "dsa/dynamic programming/Elementary Problem.md",
     "dsa/dynamic programming/What is DP?.md",
