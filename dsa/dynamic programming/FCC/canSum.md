@@ -11,7 +11,12 @@
 Example:
 	canSum(7, {5,3,4,7}) -> true
 
-Using the numbers, {5,3,4,7}, can we sum the numbers to 7?
 
+![[Pasted image 20231113195719.png]]
+
+We can sum up to 7 by:
+- 3 + 4
+- 4 + 3
+- 7
 
 
