@@ -19,4 +19,5 @@ We can sum up to 7 by:
 - 4 + 3
 - 7
 
+So there are actually three ways to sum up to 7. We only need to find one so we can terminate the second we find a combination that returns true.
 
