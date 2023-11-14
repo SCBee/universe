@@ -20,3 +20,8 @@ Example:
 Example:
 	`howSum(0, {1,2,3}) -> {}`
 
+
+![[Pasted image 20231114121749.png]]
+
+The decision tree for the first example. The leaf nodes that has a value of zero returns an empty vector.
+
