@@ -18,24 +18,24 @@
             }
           },
           {
-            "id": "751b299dcf3feb2a",
+            "id": "e84db360614823ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa/dynamic programming/FCC/bestSum.md",
+                "file": "dsa/dynamic programming/FCC/canConstruct.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "36ac8f26aa7b94b3",
+            "id": "e0986ff28110cd55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa/dynamic programming/FCC/howSum.md",
+                "file": "dsa/dynamic programming/FCC/canSum.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa/dynamic programming/FCC/bestSum.md",
+                "file": "dsa/dynamic programming/FCC/canConstruct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa/dynamic programming/FCC/bestSum.md",
+                "file": "dsa/dynamic programming/FCC/canConstruct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa/dynamic programming/FCC/bestSum.md"
+                "file": "dsa/dynamic programming/FCC/canConstruct.md"
               }
             }
           },
@@ -198,12 +198,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "751b299dcf3feb2a",
+  "active": "e84db360614823ca",
   "lastOpenFiles": [
-    "assets/images/Pasted image 20231114135139.png",
-    "dsa/dynamic programming/FCC/howSum.md",
-    "dsa/dynamic programming/FCC/bestSum.md",
     "dsa/dynamic programming/FCC/canSum.md",
+    "dsa/dynamic programming/FCC/canConstruct.md",
+    "dsa/dynamic programming/FCC/bestSum.md",
+    "dsa/dynamic programming/FCC/howSum.md",
+    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
+    "assets/images/Pasted image 20231114135139.png",
     "assets/images/Pasted image 20231114121749.png",
     "dsa/notes_algos/Lec9_Lec10_Graphs_S23.pdf",
     "dsa/notes_algos/Lec8_Heaps_S23.pdf",
@@ -214,7 +216,6 @@
     "dsa/notes_algos/Lec2_Searching_S23.pdf",
     "dsa/notes_algos/Lec1_AlgoComplexity_S23.pdf",
     "dsa/notes_algos/Lec11_HashTables_S23.pdf",
-    "dsa/notes_algos/Lec0_Intro_S23.pdf",
     "enme585/1_93aDKSKDxcz4fZXY_hX-wg.webp",
     "enme585/Control_Map_ver5.png",
     "assets/images/Pasted image 20231113203147.png",
@@ -222,7 +223,6 @@
     "dsa/dynamic programming/FCC/Memoization.md",
     "dsa/dynamic programming/FCC/allConstruct.md",
     "dsa/dynamic programming/FCC/countConstruct.md",
-    "dsa/dynamic programming/FCC/canConstruct.md",
     "dsa/dynamic programming/Approaches.md",
     "dsa/dynamic programming/Elementary Problem.md",
     "dsa/dynamic programming/What is DP?.md",
@@ -247,7 +247,6 @@
     "assets/images/magnetic flux vs magnetomotive force.png",
     "assets/images/magnetic flux density vs magnetizing intensity.png",
     "assets/images/magnetic circuit.png",
-    "assets/images/linear dc machine.png",
     "ENEL 582/Untitled.canvas"
   ]
 }
