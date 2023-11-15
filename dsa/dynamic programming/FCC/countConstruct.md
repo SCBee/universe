@@ -14,10 +14,8 @@ examples:
 
 template code:
 ```cpp
-int countConstruct(vector<string> wordBank, string target, unordered_map<string, bool>& m)
+int countConstruct(vector<string> wordBank, string target, unordered_map<string, int>& m)
 {
-    int count = 0;
-
     if (m.count(target))
     {
         return m[target];
@@ -27,6 +25,7 @@ int countConstruct(vector<string> wordBank, string target, unordered_map<string,
         return 1;
     }
 
+    int count = 0;
     for (size_t i = 0; i < wordBank.size(); i++)
     {
         if (target.find(wordBank[i]) == 0)
@@ -35,13 +34,13 @@ int countConstruct(vector<string> wordBank, string target, unordered_map<string,
             string tmp = target;
             tmp.erase(0, wordBank[i].size());
 
-            m[target] = countConstruct(wordBank, tmp, m);
-            count += m[target];
+            count += countConstruct(wordBank, tmp, m);
         }
     }
 
-    return count;
+    return m[target] = count;
 }
 ```
 
+Using countConstruct, we can build the solution for [[allConstruct]].
 

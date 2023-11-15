@@ -18,24 +18,24 @@
             }
           },
           {
-            "id": "e84db360614823ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsa/dynamic programming/FCC/canConstruct.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c626f13c98d2fb9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "dsa/dynamic programming/FCC/countConstruct.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99265e65762945f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dsa/dynamic programming/FCC/allConstruct.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa/dynamic programming/FCC/countConstruct.md",
+                "file": "dsa/dynamic programming/FCC/allConstruct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa/dynamic programming/FCC/countConstruct.md",
+                "file": "dsa/dynamic programming/FCC/allConstruct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa/dynamic programming/FCC/countConstruct.md"
+                "file": "dsa/dynamic programming/FCC/allConstruct.md"
               }
             }
           },
@@ -198,16 +198,17 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c626f13c98d2fb9a",
+  "active": "99265e65762945f0",
   "lastOpenFiles": [
-    "assets/images/Pasted image 20231114180315.png",
-    "dsa/dynamic programming/FCC/canConstruct.md",
     "dsa/dynamic programming/FCC/countConstruct.md",
+    "dsa/dynamic programming/FCC/allConstruct.md",
+    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
+    "dsa/dynamic programming/FCC/canConstruct.md",
+    "assets/images/Pasted image 20231114180315.png",
     "dsa/dynamic programming/FCC/bestSum.md",
     "assets/images/Pasted image 20231114175031.png",
     "dsa/dynamic programming/FCC/canSum.md",
     "dsa/dynamic programming/FCC/howSum.md",
-    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "assets/images/Pasted image 20231114135139.png",
     "assets/images/Pasted image 20231114121749.png",
     "dsa/notes_algos/Lec9_Lec10_Graphs_S23.pdf",
@@ -224,7 +225,6 @@
     "assets/images/Pasted image 20231113203147.png",
     "assets/images/Pasted image 20231113195719.png",
     "dsa/dynamic programming/FCC/Memoization.md",
-    "dsa/dynamic programming/FCC/allConstruct.md",
     "dsa/dynamic programming/Approaches.md",
     "dsa/dynamic programming/Elementary Problem.md",
     "dsa/dynamic programming/What is DP?.md",
@@ -247,7 +247,6 @@
     "DS&A/dynamic programming/Dynamic Programming.canvas",
     "assets/images/simple ampere_s law example.png",
     "assets/images/magnetic flux vs magnetomotive force.png",
-    "assets/images/magnetic flux density vs magnetizing intensity.png",
     "ENEL 582/Untitled.canvas"
   ]
 }
