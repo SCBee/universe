@@ -15,3 +15,5 @@ example:
 
 ![[Pasted image 20231114183248.png]]
 
+
+template code:
