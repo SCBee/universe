@@ -28,18 +28,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e0986ff28110cd55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsa/dynamic programming/FCC/canSum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1

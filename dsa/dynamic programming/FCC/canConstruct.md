@@ -10,4 +10,5 @@
 examples:
 	`canConstruct("abcdef", {"ab", "abc", "cd", "def", "abcd"}) -> true`
 	`canConstruct("skateboard", {"bo", "rd", "ate", "t", "ska", "sk", "boar"}) -> false`
+	`canConstruct("", {"cat", "dog", "mouse"}) -> true`
 
