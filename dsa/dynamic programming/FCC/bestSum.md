@@ -26,3 +26,42 @@ Example:
 We could either have taken [2,2,2] or [3,3] to make up 6, but since [3,3] has fewer elements, we take [3,3].
 
 
+Template Code:
+```cpp
+vector<int> bestSum(vector<int> v, int target, unordered_map<int, vector<int>>& m)
+{
+    if (m.count(target))
+    {
+        return m[target];
+    }
+    else if (target == 0)
+    {
+        return {0};
+    }
+    else if (target < 0)
+    {
+        return {};
+    }
+
+    vector<int> shortestCombo;
+
+    for (size_t i = 0; i < v.size(); i++)
+    {
+        const int remainder = target - v[i];
+        vector<int> remainderResult = bestSum(v, remainder, m);
+
+        if (remainderResult.size())
+        {
+            remainderResult.push_back(v[i]);
+
+            if (!shortestCombo.size() or remainderResult.size() < shortestCombo.size())
+            {
+                shortestCombo = remainderResult;
+            }
+        }
+    }
+
+    return m[target] = shortestCombo;
+}
+```
+
