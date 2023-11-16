@@ -8,13 +8,17 @@ There is only **one repeated number** in `nums`, return _this repeated num
 
 You must solve the problem **without** modifying the array `nums` and uses only constant extra space.
 
+
+example:
+in: [2, 5, 9, 6, 9, 3, 8, 9, 7, 1]
+
 ```dot
 digraph G {
+	rankdir="LR"
 	0 -> 2
 	1 -> 5
 	2 -> 9
 	3 -> 6
-	4 -> 9
 	5 -> 3
 	6 -> 8
 	7 -> 9
@@ -22,3 +26,6 @@ digraph G {
 	9 -> 1
 }
 ```
+
+
+
