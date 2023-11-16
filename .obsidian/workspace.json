@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa/dynamic programming/FCC/allConstruct.md",
+                "file": "career/Tesla Referral.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa/dynamic programming/FCC/allConstruct.md",
+                "file": "career/Tesla Referral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa/dynamic programming/FCC/allConstruct.md",
+                "file": "career/Tesla Referral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa/dynamic programming/FCC/allConstruct.md"
+                "file": "career/Tesla Referral.md"
               }
             }
           },
@@ -200,10 +200,11 @@
   },
   "active": "99265e65762945f0",
   "lastOpenFiles": [
+    "dsa/dynamic programming/FCC/allConstruct.md",
+    "career/Tesla Referral.md",
     "assets/images/Pasted image 20231114183248.png",
     "assets/images/Pasted image 20231114183231.png",
     "dsa/dynamic programming/FCC/countConstruct.md",
-    "dsa/dynamic programming/FCC/allConstruct.md",
     "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "dsa/dynamic programming/FCC/canConstruct.md",
     "assets/images/Pasted image 20231114180315.png",
@@ -247,7 +248,6 @@
     "atoms/Speech Bubble Templates.md",
     "enme585/stability/Bode Plots Stability Criterion.md",
     "DS&A/dynamic programming/Dynamic Programming.canvas",
-    "assets/images/simple ampere_s law example.png",
     "ENEL 582/Untitled.canvas"
   ]
 }
