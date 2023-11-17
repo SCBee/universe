@@ -40,8 +40,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b168cc8144fc513",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9938e3e1ddfa861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "atoms/TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
+                "file": "atoms/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
+                "file": "atoms/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf"
+                "file": "atoms/TODO.md"
               }
             }
           },
@@ -198,8 +219,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "b4828a5dc700f32f",
+  "active": "f9938e3e1ddfa861",
   "lastOpenFiles": [
+    "atoms/TODO.md",
+    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "dsa/cpsc 413 notes.pdf",
     "dsa/6.006-spring-2020/static_shared/css/fonts/bbe2fbc76615c7cbd85ea132d0ff92e7.woff",
     "dsa/6.006-spring-2020/static_shared/css/fonts/22d194ee0b49f6e9d633ddc302f108b1.woff2",
@@ -209,8 +232,6 @@
     "dsa/6.006-spring-2020/resources/zldoonwp7pw-1/data.json",
     "dsa/6.006-spring-2020/resources/zldoonwp7pw/index.html",
     "dsa/6.006-spring-2020/resources/zldoonwp7pw/data.json",
-    "dsa/6.006-spring-2020/resources/za-tuym_y7s-2/index.html",
-    "dsa/6.006-spring-2020/resources/za-tuym_y7s-2/data.json",
     "dsa/6.006-spring-2020/static_shared/images/youtube.1e55fc2f8fc09d36a1a6.svg",
     "dsa/6.006-spring-2020/static_shared/images/videojs_download.e0dbb2cfb52d2d71ba4a.svg",
     "dsa/6.006-spring-2020/static_shared/images/video_thumbnail.8817e5123be1e39ecd14.png",
