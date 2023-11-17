@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms/leetcode 287.md",
+                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms/leetcode 287.md",
+                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atoms/leetcode 287.md"
+                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf"
               }
             }
           },
@@ -199,10 +198,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "92aaff5157d5db53",
+  "active": "b4828a5dc700f32f",
   "lastOpenFiles": [
-    "dsa/dynamic programming/FCC/countConstruct.md",
     "atoms/leetcode 287.md",
+    "dsa/dynamic programming/FCC/countConstruct.md",
     "enme585/(IET Control Engineering Series 72) James Ron Leigh - Control Theory_ A guided tour-The Institution of Engineering and Technology (2012).pdf",
     "enme585/fundamentals_of_control_r1_6.pdf",
     "career/Tesla Referral.md",
