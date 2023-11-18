@@ -30,26 +30,6 @@
             }
           },
           {
-            "id": "92aaff5157d5db53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "atoms/leetcode 287.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b168cc8144fc513",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "f9938e3e1ddfa861",
             "type": "leaf",
             "state": {
@@ -62,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms/TODO.md",
+                "file": "dsa/dynamic programming/FCC/countConstruct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms/TODO.md",
+                "file": "dsa/dynamic programming/FCC/countConstruct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atoms/TODO.md"
+                "file": "dsa/dynamic programming/FCC/countConstruct.md"
               }
             }
           },
@@ -219,8 +199,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "f9938e3e1ddfa861",
+  "active": "c626f13c98d2fb9a",
   "lastOpenFiles": [
+    "atoms/leetcode 287.md",
     "atoms/TODO.md",
     "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "dsa/cpsc 413 notes.pdf",
@@ -242,7 +223,6 @@
     "dsa/6.006-spring-2020/static_shared/images/oeg_logo.8a31f7b87f30df2d0169.png",
     "dsa/6.006-spring-2020/static_shared/images/ocw_logo_white_v2.33d9012306f73d8e1fb8.svg",
     "dsa/6.006-spring-2020/static_shared/images/ocw_logo_orange.202255b67af1a72a1f52.png",
-    "atoms/leetcode 287.md",
     "dsa/dynamic programming/FCC/countConstruct.md",
     "career/Tesla Referral.md",
     "dsa/dynamic programming/FCC/allConstruct.md",
