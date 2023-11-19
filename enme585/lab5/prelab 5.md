@@ -139,5 +139,20 @@ $$
 and the phase shift is
 
 $$
-	\angle T_{r\theta}(jw) = tn^{-1} (bk_{p} + j)
+\angle T_{r\theta}(jw) = tn^{-1} \frac{bk_{p} + jk_{d}\omega b}{-\omega^{2}+jbk_{d}\omega+bk_{p}} = tn^{-1}\left( \frac{k_{d}\omega b}{bk_{p}} \right) - tn^{-1} \frac{k_{d}\omega b}{bk_{p}-\omega^{2}}
+$$
+
+## 10
+
+Letting $\omega = 0$
+
+$$
+T_{r\theta}(0) = \frac{bk_{p} + jk_{d}(0)}{-(0)^{2} + jbk_{d}(0) + bk_{p}} = \frac{bk_{p}}{bk_{p}} = 1
+$$
+
+
+Letting $k_{p} = 4$, $\omega=23.9$, $b = 142.7$, and $k_{d} = 0.335$
+
+$$
+T_{r\theta}(j\omega) = \frac{\sqrt{ (142.7 \times 4)^{2} + (0.335 \times 23.9 \times 142.7)^{2} }}{\sqrt{ (142.7 \times 4) }^{2} + ((23.9)^{2})^{2} + (0.335 \times 23.9 \times 142.7)^{2}}
 $$
