@@ -87,4 +87,39 @@ $$
 \omega_{n}^{2} = bk_{p} \to \omega_{n} = \sqrt{ bk_{p} }
 $$
 
-Let $b = 142.7$ and $k_{p} = {4, 50}$
+Let $b = 142.7$ and $k_{p} = \{ 4,50 \}$
+
+$k_{p} = 4 \text{ : }$
+$$
+\omega_{n} = 23.9 \frac{rad}{s}
+$$
+$k_{p} = 50 \text{ : }$
+$$
+\omega_{n} = 84.5 \frac{rad}{s}
+$$
+
+
+## 8
+
+From the characteristic equation of a 2nd order system, the poles are the roots of the denominator
+
+$$
+-bk_{d} \pm \sqrt{ (bk_{d})^{2} - 4bk_{p} } \to (bk_{d})^{2} - 4bk_{p} = 0
+$$
+then the equation for $k_{d}$ is
+
+$$
+k_{d} = 2\sqrt{ \frac{k_{p}}{b} }
+$$
+
+Let $b = 142.7$
+
+$k_{p} = 4 \text{ : }$
+$$
+k_{d} = 0.335
+$$
+$k_{p} = 50 \text{ : }$
+$$
+k_{d}
+$$
+
