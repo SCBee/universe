@@ -116,10 +116,28 @@ Let $b = 142.7$
 
 $k_{p} = 4 \text{ : }$
 $$
-k_{d} = 0.335
+k_{d} = 2\sqrt{ \frac{4}{142.7} } = 0.335
 $$
 $k_{p} = 50 \text{ : }$
 $$
-k_{d}
+k_{d} = 2\sqrt{ \frac{50}{142.7} } = 1.184
 $$
 
+## 9
+
+The transfer function is
+
+$$
+T_{r\theta} = \frac{bk_{d}D + bk_{p}}{D^{2}+bk_{d}D+bk_{p}}
+$$
+
+Then the magnitude is
+
+$$
+T_{r\theta}(j\omega) = \frac{\mid bk_{p}+jk_{d}\omega\mid}{\mid-\omega^{2} + jbk_{d}\omega + bk_{p} \mid} = \frac{\sqrt{ (bk_{p})^{2} + (k_{d}\omega b)^{2} }}{\sqrt{ (bk_{p})^{2}+(-\omega^{2})^{2}+(bk_{d}\omega)^{2} }}
+$$
+and the phase shift is
+
+$$
+	\angle T_{r\theta}(jw) = tn^{-1} (bk_{p} + j)
+$$
