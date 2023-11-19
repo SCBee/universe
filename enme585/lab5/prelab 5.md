@@ -5,7 +5,7 @@ $$
 \dot{\theta}(t) = |P(jw)|Asin(\omega t + \angle P(jw))
 $$
 
-let c = $22.55$ and $\omega = \omega_{0}$:
+let c = $22.55$ and $\omega = \omega_{0}$
 
 $$
 |P(jw)| = \frac{22.55}{\sqrt{ 1^{2} + 1 }} = \frac{22.55}{\sqrt{ 2 }} = 15.95
@@ -16,7 +16,7 @@ $$
 $$
 \phi(\omega) = \angle P(jw)= -tan^{-1}\left( \frac{\omega}{\omega_{0}} \right)
 $$
-let $\omega = \omega_{0}$:
+let $\omega = \omega_{0}$
 
 $$
 \phi(\omega) = -tan^{-1}(1) = -45 \degree
@@ -46,3 +46,26 @@ $$
 
 ## 5
 
+Equation 8 is
+
+$$
+\phi = -\frac{T_{D}}{T}\times(360^{o})
+$$
+
+Using $\phi = -45^{o}$ from part 2 and $T=0.993 \text{ s}$ from part 4, solving for $T_{D}$
+
+$$
+T_{D} = -\frac{\phi T}{360^{o}} = - \frac{45^{o}(0.993)}{360^{o}} = 0.124 \text{ s}
+$$
+
+## 6
+
+Equation 9 is
+
+$$
+v = k_{p}e + k_{d}\dot{e}
+$$
+
+$$
+v = k_{p}+k_{d})
+$$
