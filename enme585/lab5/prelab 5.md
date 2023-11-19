@@ -67,5 +67,24 @@ v = k_{p}e + k_{d}\dot{e}
 $$
 
 $$
-v = k_{p}+k_{d})
+v = (k_{p}+k_{d})e \to C(D) = \frac{v}{c} = k_{p} + k_{d}D
 $$
+
+Then the transfer function is
+
+$$
+T_{r\theta} = \frac{CP}{1+CP} = \frac{bk_{d}D + bk_{p}}{D^{2} + bk_{d}D + bk_{p}}
+$$
+where
+
+$$
+b = \frac{c}{\tau}=\frac{22.55}{0.158}=142.7
+$$
+
+## 7
+
+$$
+\omega_{n}^{2} = bk_{p} \to \omega_{n} = \sqrt{ bk_{p} }
+$$
+
+Let $b = 142.7$ and $k_{p} = {4, 50}$
