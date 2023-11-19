@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "enme585/lab5/prelab 5.md",
+                "file": "enme585/lab5/ENME 585 Lab 5 Prelab.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enme585/lab5/prelab 5.md",
+                "file": "enme585/lab5/ENME 585 Lab 5 Prelab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enme585/lab5/prelab 5.md",
+                "file": "enme585/lab5/ENME 585 Lab 5 Prelab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enme585/lab5/prelab 5.md"
+                "file": "enme585/lab5/ENME 585 Lab 5 Prelab.md"
               }
             }
           },
@@ -224,8 +224,9 @@
   },
   "active": "09815575208f5b44",
   "lastOpenFiles": [
+    "enme585/lab5/ENME 585 Lab 5 Prelab.pdf",
     "enme585/lab4/ENME 585 Lab 4 Prelab.md",
-    "enme585/lab5/prelab 5.md",
+    "enme585/lab5/ENME 585 Lab 5 Prelab.md",
     "enme585/lab5",
     "enme585/lab4/Untitled",
     "dsa/leetcode/287.md",
@@ -270,7 +271,6 @@
     "capstone/Nov 9 Sponsor Meeting.md",
     "dsa/neetcode/Union-Find.md",
     "enme585/quiz2/Step Response of Control Systems.md",
-    "atoms/assi.md",
     "DS&A/dynamic programming/Dynamic Programming.canvas",
     "ENEL 582/Untitled.canvas"
   ]
