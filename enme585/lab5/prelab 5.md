@@ -7,7 +7,8 @@ $$
 
 let c = $22.55$ and $\omega = \omega_{0}$
 
-$$
+>[!tip] Result
+>$$
 |P(jw)| = \frac{22.55}{\sqrt{ 1^{2} + 1 }} = \frac{22.55}{\sqrt{ 2 }} = 15.95
 $$
 
@@ -18,7 +19,8 @@ $$
 $$
 let $\omega = \omega_{0}$
 
-$$
+>[!tip] Result
+>$$
 \phi(\omega) = -tan^{-1}(1) = -45 \degree
 $$
 
@@ -26,7 +28,8 @@ $$
 
 From lab 1 $\tau = 0.158 \text{ s}$, then the break frequency is
 
-$$
+>[!tip] Result
+>$$
 \omega_{0} = \frac{1}{\tau} = \frac{1}{0.158} = 6.33 \frac{rad}{s}
 $$
 
@@ -40,7 +43,8 @@ $$
 
 Then calculating the period
 
-$$
+>[!tip] Result
+>$$
 T = \frac{1}{f} = \frac{1}{1.007} = 0.993 \text{ s}
 $$
 
@@ -54,7 +58,8 @@ $$
 
 Using $\phi = -45^{o}$ from part 2 and $T=0.993 \text{ s}$ from part 4, solving for $T_{D}$
 
-$$
+>[!tip] Result
+>$$
 T_{D} = -\frac{\phi T}{360^{o}} = - \frac{45^{o}(0.993)}{360^{o}} = 0.124 \text{ s}
 $$
 
@@ -72,12 +77,15 @@ $$
 
 Then the transfer function is
 
-$$
+>[!tip] Result
+>$$
 T_{r\theta} = \frac{CP}{1+CP} = \frac{bk_{d}D + bk_{p}}{D^{2} + bk_{d}D + bk_{p}}
 $$
+
 where
 
-$$
+>[!tip] Supplementary
+>$$
 b = \frac{c}{\tau}=\frac{22.55}{0.158}=142.7
 $$
 
@@ -90,9 +98,11 @@ $$
 Let $b = 142.7$ and $k_{p} = \{ 4,50 \}$
 
 $k_{p} = 4 \text{ : }$
-$$
+>[!tip] Result
+>$$
 \omega_{n} = 23.9 \frac{rad}{s}
 $$
+
 $k_{p} = 50 \text{ : }$
 $$
 \omega_{n} = 84.5 \frac{rad}{s}
@@ -153,6 +163,23 @@ $$
 
 Letting $k_{p} = 4$, $\omega=23.9$, $b = 142.7$, and $k_{d} = 0.335$
 
+
+Then the magnitude is
 $$
-T_{r\theta}(j\omega) = \frac{\sqrt{ (142.7 \times 4)^{2} + (0.335 \times 23.9 \times 142.7)^{2} }}{\sqrt{ (142.7 \times 4) }^{2} + ((23.9)^{2})^{2} + (0.335 \times 23.9 \times 142.7)^{2}}
+T_{r\theta}(j\omega) = \frac{\sqrt{ (142.7 \times 4)^{2} + (0.335 \times 23.9 \times 142.7)^{2} }}{\sqrt{ (142.7 \times 4)^{2} + ((23.9)^{2})^{2} + (0.335 \times 23.9 \times 142.7)^{2}}}
+$$
+
+$$
+T_{r\theta}(j\omega) = \frac{1261.5}{1384.6} = 0.91
+$$
+
+
+and the phase shift is
+
+$$
+\angle T_{r\theta}(j\omega_{n}) = tan^{-1}\left( \frac{0.33 \times 23.9 \times 142.7}{142.7\times4} \right)- tan^{-1}\left( \frac{0.33\times23.9\times142.7}{142.7\times4 - 23.9^{2}} \right)
+$$
+
+$$
+\angle T_{r\theta}(j\omega_{n}) = 63.1^{o} - 89.99^{o} = -26.89^{o}
 $$
