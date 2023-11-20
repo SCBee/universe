@@ -42,19 +42,7 @@
             }
           },
           {
-            "id": "9855fbb14db722d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "enme585/lab4/ENME 585 Lab 4 Prelab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09815575208f5b44",
+            "id": "6209bc4b9cc8f8a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,16 +210,16 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "09815575208f5b44",
+  "active": "6209bc4b9cc8f8a9",
   "lastOpenFiles": [
-    "enme585/lab5/ENME 585 Lab 5 Prelab.pdf",
     "enme585/lab4/ENME 585 Lab 4 Prelab.md",
+    "atoms/TODO.md",
+    "dsa/dynamic programming/FCC/countConstruct.md",
     "enme585/lab5/ENME 585 Lab 5 Prelab.md",
+    "enme585/lab5/ENME 585 Lab 5 Prelab.pdf",
     "enme585/lab5",
     "enme585/lab4/Untitled",
     "dsa/leetcode/287.md",
-    "atoms/TODO.md",
-    "dsa/dynamic programming/FCC/countConstruct.md",
     "atoms/Untitled.md",
     "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "dsa/cpsc 413 notes.pdf",
@@ -240,7 +228,6 @@
     "dsa/6.006-spring-2020/resources/zldoonwp7pw-2/index.html",
     "dsa/6.006-spring-2020/resources/zldoonwp7pw-2/data.json",
     "dsa/6.006-spring-2020/resources/zldoonwp7pw-1/index.html",
-    "dsa/6.006-spring-2020/resources/zldoonwp7pw-1/data.json",
     "dsa/6.006-spring-2020/static_shared/images/youtube.1e55fc2f8fc09d36a1a6.svg",
     "dsa/6.006-spring-2020/static_shared/images/videojs_download.e0dbb2cfb52d2d71ba4a.svg",
     "dsa/6.006-spring-2020/static_shared/images/video_thumbnail.8817e5123be1e39ecd14.png",
