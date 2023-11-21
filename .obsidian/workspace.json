@@ -42,14 +42,12 @@
             }
           },
           {
-            "id": "6209bc4b9cc8f8a9",
+            "id": "b2f10cd9f81b6383",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "enme585/lab5/ENME 585 Lab 5 Prelab.md",
-                "mode": "source",
-                "source": false
+                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf"
               }
             }
           }
@@ -104,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "177267cf97c20f67",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enme585/lab5/ENME 585 Lab 5 Prelab.md",
+                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enme585/lab5/ENME 585 Lab 5 Prelab.md",
+                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enme585/lab5/ENME 585 Lab 5 Prelab.md"
+                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf"
               }
             }
           },
@@ -210,12 +209,13 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "6209bc4b9cc8f8a9",
+  "active": "b2f10cd9f81b6383",
   "lastOpenFiles": [
-    "enme585/lab4/ENME 585 Lab 4 Prelab.md",
-    "atoms/TODO.md",
-    "dsa/dynamic programming/FCC/countConstruct.md",
+    "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "enme585/lab5/ENME 585 Lab 5 Prelab.md",
+    "atoms/TODO.md",
+    "enme585/lab4/ENME 585 Lab 4 Prelab.md",
+    "dsa/dynamic programming/FCC/countConstruct.md",
     "enme585/lab5/ENME 585 Lab 5 Prelab.pdf",
     "enme585/lab5",
     "enme585/lab4/Untitled",
@@ -227,7 +227,6 @@
     "dsa/6.006-spring-2020/static_shared/css/fonts/22d194ee0b49f6e9d633ddc302f108b1.woff2",
     "dsa/6.006-spring-2020/resources/zldoonwp7pw-2/index.html",
     "dsa/6.006-spring-2020/resources/zldoonwp7pw-2/data.json",
-    "dsa/6.006-spring-2020/resources/zldoonwp7pw-1/index.html",
     "dsa/6.006-spring-2020/static_shared/images/youtube.1e55fc2f8fc09d36a1a6.svg",
     "dsa/6.006-spring-2020/static_shared/images/videojs_download.e0dbb2cfb52d2d71ba4a.svg",
     "dsa/6.006-spring-2020/static_shared/images/video_thumbnail.8817e5123be1e39ecd14.png",
