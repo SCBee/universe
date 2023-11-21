@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
+                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
+                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf"
+                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf"
               }
             }
           },
@@ -209,19 +208,19 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "b2f10cd9f81b6383",
+  "active": "b4828a5dc700f32f",
   "lastOpenFiles": [
+    "dsa/dynamic programming/FCC/countConstruct.md",
+    "atoms/TODO.md",
+    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "enme585/lab5/ENME 585 Lab 5 Prelab.md",
-    "atoms/TODO.md",
     "enme585/lab4/ENME 585 Lab 4 Prelab.md",
-    "dsa/dynamic programming/FCC/countConstruct.md",
     "enme585/lab5/ENME 585 Lab 5 Prelab.pdf",
     "enme585/lab5",
     "enme585/lab4/Untitled",
     "dsa/leetcode/287.md",
     "atoms/Untitled.md",
-    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "dsa/cpsc 413 notes.pdf",
     "dsa/6.006-spring-2020/static_shared/css/fonts/bbe2fbc76615c7cbd85ea132d0ff92e7.woff",
     "dsa/6.006-spring-2020/static_shared/css/fonts/22d194ee0b49f6e9d633ddc302f108b1.woff2",
