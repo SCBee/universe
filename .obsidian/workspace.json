@@ -42,12 +42,14 @@
             }
           },
           {
-            "id": "b2f10cd9f81b6383",
+            "id": "ee6850435c72e005",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf"
+                "file": "atoms/chatgpt prompts.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -119,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
+                "file": "atoms/chatgpt prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
+                "file": "atoms/chatgpt prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf"
+                "file": "atoms/chatgpt prompts.md"
               }
             }
           },
@@ -209,19 +211,19 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "b2f10cd9f81b6383",
+  "active": "ee6850435c72e005",
   "lastOpenFiles": [
+    "atoms/TODO.md",
+    "atoms/chatgpt prompts.md",
+    "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "dsa/dynamic programming/FCC/countConstruct.md",
-    "atoms/TODO.md",
-    "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "enme585/lab5/ENME 585 Lab 5 Prelab.md",
     "enme585/lab4/ENME 585 Lab 4 Prelab.md",
     "enme585/lab5/ENME 585 Lab 5 Prelab.pdf",
     "enme585/lab5",
     "enme585/lab4/Untitled",
     "dsa/leetcode/287.md",
-    "atoms/Untitled.md",
     "dsa/cpsc 413 notes.pdf",
     "dsa/6.006-spring-2020/static_shared/css/fonts/bbe2fbc76615c7cbd85ea132d0ff92e7.woff",
     "dsa/6.006-spring-2020/static_shared/css/fonts/22d194ee0b49f6e9d633ddc302f108b1.woff2",
