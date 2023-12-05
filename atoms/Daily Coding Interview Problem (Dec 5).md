@@ -9,12 +9,7 @@ return math.exp(math.log(x)/2)
 ```
 
 
-$$
-\text{let } x = 9
-$$
-
-then take the log of x
-
+Take the log of x
 $$
 \log(x) = \log(9)
 $$
@@ -37,4 +32,8 @@ $$
 \frac{\log(x)}{2} = \log(x^{\frac{1}{2}})
 $$
 
-Ta
+exponential operation on our reduced log function
+
+$$
+\log(x^{\frac{1}{2}}) \to \exp(\log(x^{\frac{1}{2}})) = x^{\frac{1}{2}} = \sqrt{ x }
+$$
