@@ -3,6 +3,7 @@ Individual Contribution Report
 Name: Zachary Uy
 Student Number: 10139739
 Team Number: Group #10
+
 1. List and briefly describe your contributions of engineering design, project management and communication to the capstone design project. You may also discuss any other types of your contributions to the project.
 
 I have contributed to the engineering design of the project by
@@ -35,7 +36,7 @@ Also, I plan on continuing my active involvement with the software sub-team sinc
 
 The second contribution that I am proud of is assisting Allen with the research of materials, manufacturing processes, and prices.
 
-Since the last session, I have continued visiting the makerspace for information on their courses and getting training on using the machines/tools available to aid us in our construction of the 
+Since the last session, I have continued visiting the makerspace for information on their courses and getting training on using the machines/tools available to aid us in our construction of the fixed-wing components.
 
 I have visited the makerspace and grad students in the UAV rooms in EEEL to get more information on different ways we can build our drone. For example, I visited the UAV room in EEEL this past Tuesday and gained information on info of 3D printing carbon fibre. That conversation led to unexpected learnings like we could print the propellors using common PLA or ABS and painting them so that they don’t fray at the ends. Also, that we can use shrouds to protect the propellors and decrease the tip vortices. I have also spent significant time learning the different manufacturing options we have available at the University of Calgary, since we are constrained by our budget and looking for more economic alternatives will help us build our prototype / proof of concept. 3. Identify and explain one contribution that you would plan to do differently if there is a second chance. I think that one contribution that I would do differently is not advocating for the mechanical scope properly. Specifically, the continuation of our pursuit of conducting a CFD analysis. After the mechanical sub-team discussed our scope with Dr. Hinman who was extremely concerned with our scope due to our plan of conducting a CFD analysis using OpenFOAM and how it wasn’t a realistic timeline because we are only two students and we wouldn’t have the time to invest into it with our course load. However, after the meeting, I felt that Allen wanted to continue pursuing CFD because that is where his interests lay, why he chose this project, and his aerospace minor. Whereas I am more interested in the electrical and software design. I think I did poorly by not pushing to stop our plans of conducting an in-depth CFD analysis and I felt like I was taking the main learning opportunity that Allen signed up for. By letting my emotions dictate my decision, I hurt the team’s progress but eventually had to ask Allen if we could not pursue CFD anyways. Overall, I failed effectively communicating my concerns with my sub-team partner, Allen. 
 
