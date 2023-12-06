@@ -52,21 +52,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dbb6b3f1d5b9702f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "atoms/Daily Coding Interview Problem (Dec 5).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms/Daily Coding Interview Problem (Dec 5).md",
+                "file": "atoms/chatgpt prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms/Daily Coding Interview Problem (Dec 5).md",
+                "file": "atoms/chatgpt prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atoms/Daily Coding Interview Problem (Dec 5).md"
+                "file": "atoms/chatgpt prompts.md"
               }
             }
           },
@@ -223,10 +211,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "dbb6b3f1d5b9702f",
+  "active": "ee6850435c72e005",
   "lastOpenFiles": [
-    "atoms/chatgpt prompts.md",
     "atoms/Daily Coding Interview Problem (Dec 5).md",
+    "atoms/chatgpt prompts.md",
     "atoms/TODO.md",
     "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
