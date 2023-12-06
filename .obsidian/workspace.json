@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atoms/Untitled.md",
+                "file": "capstone/Design Review 1/ICR 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms/Untitled.md",
+                "file": "capstone/Design Review 1/ICR 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms/Untitled.md",
+                "file": "capstone/Design Review 1/ICR 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atoms/Untitled.md"
+                "file": "capstone/Design Review 1/ICR 2.md"
               }
             }
           },
@@ -222,9 +222,9 @@
   },
   "active": "7a381879a7d8982e",
   "lastOpenFiles": [
-    "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR1.pdf",
-    "atoms/Untitled.md",
     "capstone/Design Review 1/ICR_template_Fall.pdf",
+    "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR1.pdf",
+    "capstone/Design Review 1/ICR 2.md",
     "atoms/chatgpt prompts.md",
     "atoms/Daily Coding Interview Problem (Dec 5).md",
     "atoms/TODO.md",
