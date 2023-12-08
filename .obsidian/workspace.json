@@ -40,31 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ee6850435c72e005",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR1.pdf"
-              }
-            }
-          },
-          {
-            "id": "7a381879a7d8982e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "capstone/Design Review 1/ICR 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "capstone/Design Review 1/ICR 2.md",
+                "file": "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "capstone/Design Review 1/ICR 2.md",
+                "file": "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "capstone/Design Review 1/ICR 2.md"
+                "file": "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR1.pdf"
               }
             }
           },
@@ -220,26 +198,26 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "7a381879a7d8982e",
+  "active": "e897d0b24c7f3b28",
   "lastOpenFiles": [
-    "capstone/Design Review 1/ICR_template_Fall.pdf",
-    "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR1.pdf",
     "capstone/Design Review 1/ICR 2.md",
+    "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR2.pdf",
+    "capstone/Design Review 1/lu101522jxjf.tmp",
+    "capstone/Design Review 1/lu101522jxj9.tmp",
+    "capstone/Design Review 1/lu101522jxj4.tmp",
+    "capstone/Design Review 1/lu101522jxiz.tmp",
+    "capstone/Design Review 1/lu101522jxiu.tmp",
+    "capstone/Design Review 1/lu101522jxip.tmp",
+    "capstone/Design Review 1/lu101522jxik.tmp",
+    "capstone/Design Review 1/lu101522jxif.tmp",
+    "capstone/Design Review 1/lu101522jxia.tmp",
     "atoms/chatgpt prompts.md",
     "atoms/Daily Coding Interview Problem (Dec 5).md",
     "atoms/TODO.md",
-    "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
-    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "dsa/dynamic programming/FCC/countConstruct.md",
     "enme585/lab5/ENME 585 Lab 5 Prelab.md",
     "enme585/lab4/ENME 585 Lab 4 Prelab.md",
-    "enme585/lab5/ENME 585 Lab 5 Prelab.pdf",
-    "enme585/lab5",
-    "enme585/lab4/Untitled",
     "dsa/leetcode/287.md",
-    "dsa/cpsc 413 notes.pdf",
-    "dsa/6.006-spring-2020/static_shared/css/fonts/bbe2fbc76615c7cbd85ea132d0ff92e7.woff",
-    "dsa/6.006-spring-2020/static_shared/css/fonts/22d194ee0b49f6e9d633ddc302f108b1.woff2",
     "dsa/6.006-spring-2020/static_shared/images/youtube.1e55fc2f8fc09d36a1a6.svg",
     "dsa/6.006-spring-2020/static_shared/images/videojs_download.e0dbb2cfb52d2d71ba4a.svg",
     "dsa/6.006-spring-2020/static_shared/images/video_thumbnail.8817e5123be1e39ecd14.png",
