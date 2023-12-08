@@ -35,7 +35,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3 image0.jpeg"
+                "file": "enel582/tutorials/tut3/tutorial 3 image1.jpeg"
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
+                "file": "enel582/tutorials/tut3/tutorial 3 image1.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
+                "file": "enel582/tutorials/tut3/tutorial 3 image1.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3 image0.jpeg"
+                "file": "enel582/tutorials/tut3/tutorial 3 image1.jpeg"
               }
             }
           },
@@ -198,8 +198,8 @@
   },
   "active": "d6324ce8d7676252",
   "lastOpenFiles": [
-    "enel582/tutorials/tut3/tutorial 3.pdf",
     "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
+    "enel582/tutorials/tut3/tutorial 3.pdf",
     "enel582/tutorials/tut4/tutorial 4.pdf",
     "atoms/TODO.md",
     "atoms/Daily Coding Interview Problem (Dec 5).md",
