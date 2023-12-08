@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4828a5dc700f32f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "dsa/texts/Competitive Programmer’s Handbook (2019).pdf"
-              }
-            }
-          },
-          {
-            "id": "c626f13c98d2fb9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsa/dynamic programming/FCC/countConstruct.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f9938e3e1ddfa861",
             "type": "leaf",
             "state": {
@@ -40,9 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7224715a2e65019f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "enel582/tutorials/tut3/tutorial 3.pdf"
+              }
+            }
+          },
+          {
+            "id": "d6324ce8d7676252",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "enel582/tutorials/tut3/tutorial 3 image0.jpeg"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR1.pdf",
+                "file": "enel582/tutorials/tut3/tutorial 3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR1.pdf",
+                "file": "enel582/tutorials/tut3/tutorial 3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR1.pdf"
+                "file": "enel582/tutorials/tut3/tutorial 3.pdf"
               }
             }
           },
@@ -198,8 +196,15 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "e897d0b24c7f3b28",
+  "active": "7224715a2e65019f",
   "lastOpenFiles": [
+    "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
+    "enel582/tutorials/tut3/tutorial 3.pdf",
+    "enel582/tutorials/tut4/tutorial 4.pdf",
+    "atoms/TODO.md",
+    "atoms/Daily Coding Interview Problem (Dec 5).md",
+    "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
+    "dsa/dynamic programming/FCC/countConstruct.md",
     "capstone/Design Review 1/ICR 2.md",
     "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR2.pdf",
     "capstone/Design Review 1/lu101522jxjf.tmp",
@@ -208,13 +213,7 @@
     "capstone/Design Review 1/lu101522jxiz.tmp",
     "capstone/Design Review 1/lu101522jxiu.tmp",
     "capstone/Design Review 1/lu101522jxip.tmp",
-    "capstone/Design Review 1/lu101522jxik.tmp",
-    "capstone/Design Review 1/lu101522jxif.tmp",
-    "capstone/Design Review 1/lu101522jxia.tmp",
     "atoms/chatgpt prompts.md",
-    "atoms/Daily Coding Interview Problem (Dec 5).md",
-    "atoms/TODO.md",
-    "dsa/dynamic programming/FCC/countConstruct.md",
     "enme585/lab5/ENME 585 Lab 5 Prelab.md",
     "enme585/lab4/ENME 585 Lab 4 Prelab.md",
     "dsa/leetcode/287.md",
@@ -227,7 +226,6 @@
     "dsa/6.006-spring-2020/static_shared/images/page_thumbnail.135ca83a823b6c0b4616.png",
     "dsa/6.006-spring-2020/static_shared/images/oeg_logo.8a31f7b87f30df2d0169.png",
     "dsa/6.006-spring-2020/static_shared/images/ocw_logo_white_v2.33d9012306f73d8e1fb8.svg",
-    "dsa/6.006-spring-2020/static_shared/images/ocw_logo_orange.202255b67af1a72a1f52.png",
     "career/Tesla Referral.md",
     "dsa/dynamic programming/FCC/allConstruct.md",
     "dsa/dynamic programming/FCC/canConstruct.md",
