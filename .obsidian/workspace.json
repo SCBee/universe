@@ -38,19 +38,9 @@
                 "file": "enel582/tutorials/tut3/tutorial 3 image0.jpeg"
               }
             }
-          },
-          {
-            "id": "503ef3f976eb3b5e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
+                "file": "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
+                "file": "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf"
+                "file": "enel582/tutorials/tut3/tutorial 3 image0.jpeg"
               }
             }
           },
@@ -206,8 +196,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "503ef3f976eb3b5e",
+  "active": "d6324ce8d7676252",
   "lastOpenFiles": [
+    "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
     "enel582/tutorials/tut3/tutorial 3.pdf",
     "atoms/TODO.md",
