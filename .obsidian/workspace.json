@@ -35,7 +35,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3 image1.jpeg"
+                "file": "enel582/tutorials/tut3/tutorial 3 image0.jpeg"
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3 image1.jpeg",
+                "file": "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3 image1.jpeg",
+                "file": "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3 image1.jpeg"
+                "file": "enel582/tutorials/tut3/tutorial 3 image0.jpeg"
               }
             }
           },
@@ -198,10 +198,11 @@
   },
   "active": "d6324ce8d7676252",
   "lastOpenFiles": [
-    "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
     "enel582/tutorials/tut3/tutorial 3.pdf",
-    "enel582/tutorials/tut4/tutorial 4.pdf",
     "atoms/TODO.md",
+    "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
+    "enel582/tutorials/tut3/tutorial 3 image1.jpeg",
+    "enel582/tutorials/tut4/tutorial 4.pdf",
     "atoms/Daily Coding Interview Problem (Dec 5).md",
     "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "dsa/dynamic programming/FCC/countConstruct.md",
@@ -225,7 +226,6 @@
     "dsa/6.006-spring-2020/static_shared/images/resource-download.dab02d010ffdeffef264.svg",
     "dsa/6.006-spring-2020/static_shared/images/page_thumbnail.135ca83a823b6c0b4616.png",
     "dsa/6.006-spring-2020/static_shared/images/oeg_logo.8a31f7b87f30df2d0169.png",
-    "dsa/6.006-spring-2020/static_shared/images/ocw_logo_white_v2.33d9012306f73d8e1fb8.svg",
     "career/Tesla Referral.md",
     "dsa/dynamic programming/FCC/allConstruct.md",
     "dsa/dynamic programming/FCC/canConstruct.md",
