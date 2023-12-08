@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms/chatgpt prompts.md",
+                "file": "atoms/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms/chatgpt prompts.md",
+                "file": "atoms/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atoms/chatgpt prompts.md"
+                "file": "atoms/TODO.md"
               }
             }
           },
@@ -208,12 +207,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "61b1edbe201a3857",
+  "active": "f9938e3e1ddfa861",
   "lastOpenFiles": [
-    "atoms/TODO.md",
     "atoms/chatgpt prompts.md",
     "enel582/tutorials/tut3/tutorial 3.pdf",
     "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
+    "atoms/TODO.md",
     "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "enel582/tutorials/tut3/tutorial 3 image1.jpeg",
     "enel582/tutorials/tut4/tutorial 4.pdf",
