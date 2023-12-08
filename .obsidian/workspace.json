@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "61b1edbe201a3857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "atoms/chatgpt prompts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7224715a2e65019f",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3.pdf",
+                "file": "atoms/chatgpt prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3.pdf",
+                "file": "atoms/chatgpt prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3.pdf"
+                "file": "atoms/chatgpt prompts.md"
               }
             }
           },
@@ -196,12 +208,13 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "7224715a2e65019f",
+  "active": "61b1edbe201a3857",
   "lastOpenFiles": [
+    "atoms/TODO.md",
+    "atoms/chatgpt prompts.md",
+    "enel582/tutorials/tut3/tutorial 3.pdf",
     "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
     "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
-    "enel582/tutorials/tut3/tutorial 3.pdf",
-    "atoms/TODO.md",
     "enel582/tutorials/tut3/tutorial 3 image1.jpeg",
     "enel582/tutorials/tut4/tutorial 4.pdf",
     "atoms/Daily Coding Interview Problem (Dec 5).md",
@@ -214,7 +227,6 @@
     "capstone/Design Review 1/lu101522jxj4.tmp",
     "capstone/Design Review 1/lu101522jxiz.tmp",
     "capstone/Design Review 1/lu101522jxiu.tmp",
-    "atoms/chatgpt prompts.md",
     "enme585/lab5/ENME 585 Lab 5 Prelab.md",
     "enme585/lab4/ENME 585 Lab 4 Prelab.md",
     "dsa/leetcode/287.md",
