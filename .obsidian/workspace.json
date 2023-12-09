@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms/TODO.md",
+                "file": "enel582/tutorials/tut3/tutorial 3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms/TODO.md",
+                "file": "enel582/tutorials/tut3/tutorial 3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atoms/TODO.md"
+                "file": "enel582/tutorials/tut3/tutorial 3.pdf"
               }
             }
           },
@@ -207,12 +208,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "f9938e3e1ddfa861",
+  "active": "7224715a2e65019f",
   "lastOpenFiles": [
+    "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
+    "atoms/Untitled 1.md",
+    "atoms/Untitled.md",
+    "atoms/TODO.md",
     "atoms/chatgpt prompts.md",
     "enel582/tutorials/tut3/tutorial 3.pdf",
-    "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
-    "atoms/TODO.md",
     "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "enel582/tutorials/tut3/tutorial 3 image1.jpeg",
     "enel582/tutorials/tut4/tutorial 4.pdf",
@@ -253,8 +256,6 @@
     "dsa/dynamic programming/Dynamic Programming.canvas",
     "career/Coffee Chat with Eric Peng.md",
     "dsa/neetcode/Untitled.md",
-    "dsa/neetcode/test.md",
-    "capstone/Nov 9 Sponsor Meeting.md",
     "DS&A/dynamic programming/Dynamic Programming.canvas",
     "ENEL 582/Untitled.canvas"
   ]
