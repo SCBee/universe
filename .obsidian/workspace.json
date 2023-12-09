@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3 image2.jpeg",
+                "file": "enel582/tutorials/tut3/tutorial 3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3 image2.jpeg",
+                "file": "enel582/tutorials/tut3/tutorial 3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3 image2.jpeg"
+                "file": "enel582/tutorials/tut3/tutorial 3.pdf"
               }
             }
           },
@@ -218,13 +218,13 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "d6324ce8d7676252",
+  "active": "7224715a2e65019f",
   "lastOpenFiles": [
+    "enel582/tutorials/tut3/tutorial 3 image2.jpeg",
+    "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "enel582/tutorials/tut3/tutorial 3 image1.jpeg",
     "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
-    "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "enel582/tutorials/tut3/tutorial 3.pdf",
-    "enel582/tutorials/tut3/tutorial 3 image2.jpeg",
     "atoms/TODO.md",
     "atoms/Untitled 1.md",
     "atoms/Untitled.md",
