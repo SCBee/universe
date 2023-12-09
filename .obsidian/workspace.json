@@ -32,22 +32,12 @@
             }
           },
           {
-            "id": "7224715a2e65019f",
+            "id": "2e6986985d2d8e70",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3.pdf"
-              }
-            }
-          },
-          {
-            "id": "d6324ce8d7676252",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "enel582/tutorials/tut3/tutorial 3 image3.jpeg"
+                "file": "enel582/tutorials/tut4/tutorial 4.pdf"
               }
             }
           },
@@ -62,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
+                "file": "enel582/tutorials/tut4/tutorial 4.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
+                "file": "enel582/tutorials/tut4/tutorial 4.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf"
+                "file": "enel582/tutorials/tut4/tutorial 4.pdf"
               }
             }
           },
@@ -218,19 +208,19 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "a8b1e640809ea704",
+  "active": "2e6986985d2d8e70",
   "lastOpenFiles": [
-    "enel582/tutorials/tut3/tutorial 3.pdf",
     "enel582/tutorials/tut3/tutorial 3 image3.jpeg",
-    "enel582/tutorials/tut3/tutorial 3 image2.jpeg",
+    "enel582/tutorials/tut3/tutorial 3.pdf",
+    "atoms/chatgpt prompts.md",
+    "enel582/tutorials/tut4/tutorial 4.pdf",
     "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
+    "enel582/tutorials/tut3/tutorial 3 image2.jpeg",
     "enel582/tutorials/tut3/tutorial 3 image1.jpeg",
     "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
     "atoms/TODO.md",
     "atoms/Untitled 1.md",
     "atoms/Untitled.md",
-    "atoms/chatgpt prompts.md",
-    "enel582/tutorials/tut4/tutorial 4.pdf",
     "atoms/Daily Coding Interview Problem (Dec 5).md",
     "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "dsa/dynamic programming/FCC/countConstruct.md",
