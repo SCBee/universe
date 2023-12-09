@@ -1,3 +1,4 @@
+- [ ] 
 
 2023-11-16
 - [ ] Watch backtracking videos (neetcode advanced)
@@ -10,3 +11,7 @@
 - [ ] Watch `17. Letter Combinations of a Phone Number` soln (yt)
 - [x] Learn mono stacks
 
+2023-12-9
+- [ ] 582 tut 3
+- [ ] 582 tut 4
+- [ ] 
