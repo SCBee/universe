@@ -40,9 +40,29 @@
                 "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf"
               }
             }
+          },
+          {
+            "id": "2fdc0a5f1a71da89",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "enel582/tutorials/tut2/tutorial 2.pdf"
+              }
+            }
+          },
+          {
+            "id": "d7523648387b6784",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "enel582/tutorials/tut2/supplementary.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
+                "file": "enel582/tutorials/tut2/tutorial 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
+                "file": "enel582/tutorials/tut2/tutorial 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf"
+                "file": "enel582/tutorials/tut2/tutorial 2.pdf"
               }
             }
           },
@@ -198,11 +218,13 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "a8b1e640809ea704",
+  "active": "2fdc0a5f1a71da89",
   "lastOpenFiles": [
+    "enel582/tutorials/tut2/supplementary.pdf",
+    "enel582/tutorials/tut2/tutorial 2.pdf",
+    "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "enel582/tutorials/tut4/tutorial 4.pdf",
     "atoms/chatgpt prompts.md",
-    "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "enel582/tutorials/tut3/tutorial 3 image3.jpeg",
     "enel582/tutorials/tut3/tutorial 3.pdf",
     "enel582/tutorials/tut3/tutorial 3 image2.jpeg",
@@ -220,7 +242,6 @@
     "capstone/Design Review 1/lu101522jxj9.tmp",
     "capstone/Design Review 1/lu101522jxj4.tmp",
     "capstone/Design Review 1/lu101522jxiz.tmp",
-    "capstone/Design Review 1/lu101522jxiu.tmp",
     "enme585/lab5/ENME 585 Lab 5 Prelab.md",
     "enme585/lab4/ENME 585 Lab 4 Prelab.md",
     "dsa/leetcode/287.md",
