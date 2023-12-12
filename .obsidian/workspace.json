@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enel582/tutorials/tut1/tutorial 1.pdf",
+                "file": "enel582/tutorials/tut1/solution.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enel582/tutorials/tut1/tutorial 1.pdf",
+                "file": "enel582/tutorials/tut1/solution.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enel582/tutorials/tut1/tutorial 1.pdf"
+                "file": "enel582/tutorials/tut1/solution.pdf"
               }
             }
           },
@@ -218,10 +218,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "7edc6afd851270a3",
+  "active": "385e38fa421f558d",
   "lastOpenFiles": [
-    "enel582/tutorials/tut1/solution.pdf",
     "enel582/tutorials/tut1/tutorial 1.pdf",
+    "enel582/tutorials/tut1/solution.pdf",
     "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "enel582/tutorials/tut2/supplementary.pdf",
     "enel582/tutorials/tut2/image0.jpeg",
