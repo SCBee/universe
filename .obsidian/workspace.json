@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enel582/tutorials/tut1/solution.pdf",
+                "file": "enel582/tutorials/tut1/tutorial 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enel582/tutorials/tut1/solution.pdf",
+                "file": "enel582/tutorials/tut1/tutorial 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enel582/tutorials/tut1/solution.pdf"
+                "file": "enel582/tutorials/tut1/tutorial 1.pdf"
               }
             }
           },
@@ -218,10 +218,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "385e38fa421f558d",
+  "active": "7edc6afd851270a3",
   "lastOpenFiles": [
-    "enel582/tutorials/tut1/tutorial 1.pdf",
     "enel582/tutorials/tut1/solution.pdf",
+    "enel582/tutorials/tut1/tutorial 1.pdf",
+    "enel582/tutorials/tut1/supplementary.pdf",
     "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "enel582/tutorials/tut2/supplementary.pdf",
     "enel582/tutorials/tut2/image0.jpeg",
@@ -242,7 +243,6 @@
     "capstone/Design Review 1/ICR 2.md",
     "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR2.pdf",
     "capstone/Design Review 1/lu101522jxjf.tmp",
-    "capstone/Design Review 1/lu101522jxj9.tmp",
     "enme585/lab5/ENME 585 Lab 5 Prelab.md",
     "enme585/lab4/ENME 585 Lab 4 Prelab.md",
     "dsa/leetcode/287.md",
