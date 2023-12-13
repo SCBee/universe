@@ -18,51 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "61b1edbe201a3857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "atoms/chatgpt prompts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8b1e640809ea704",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf"
-              }
-            }
-          },
-          {
-            "id": "c95bcf6ad3c2cc1f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "enel582/tutorials/tut1/tutorial 1.pdf"
-              }
-            }
-          },
-          {
-            "id": "385e38fa421f558d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "enel582/tutorials/tut1/solution.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enel582/tutorials/tut1/solution.pdf",
+                "file": "atoms/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enel582/tutorials/tut1/solution.pdf",
+                "file": "atoms/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enel582/tutorials/tut1/solution.pdf"
+                "file": "atoms/TODO.md"
               }
             }
           },
@@ -218,31 +175,31 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "385e38fa421f558d",
+  "active": "f9938e3e1ddfa861",
   "lastOpenFiles": [
-    "enel582/tutorials/tut1/tutorial 1.pdf",
+    "atoms/Speech Bubble Templates.md",
+    "atoms/TODO.md",
+    "atoms/chatgpt prompts.md",
     "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
+    "enel582/tutorials/tut1/tutorial 1.pdf",
+    "atoms/Daily Coding Interview Problem (Dec 5).md",
     "enel582/tutorials/tut1/solution.pdf",
     "enel582/tutorials/tut1/supplementary.pdf",
     "enel582/tutorials/tut2/supplementary.pdf",
     "enel582/tutorials/tut2/image0.jpeg",
     "enel582/tutorials/tut2/tutorial 2.pdf",
     "enel582/tutorials/tut4/tutorial 4.pdf",
-    "atoms/chatgpt prompts.md",
     "enel582/tutorials/tut3/tutorial 3 image3.jpeg",
     "enel582/tutorials/tut3/tutorial 3.pdf",
     "enel582/tutorials/tut3/tutorial 3 image2.jpeg",
     "enel582/tutorials/tut3/tutorial 3 image1.jpeg",
     "enel582/tutorials/tut3/tutorial 3 image0.jpeg",
-    "atoms/TODO.md",
     "atoms/Untitled 1.md",
     "atoms/Untitled.md",
-    "atoms/Daily Coding Interview Problem (Dec 5).md",
     "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "dsa/dynamic programming/FCC/countConstruct.md",
     "capstone/Design Review 1/ICR 2.md",
     "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR2.pdf",
-    "capstone/Design Review 1/lu101522jxjf.tmp",
     "enme585/lab5/ENME 585 Lab 5 Prelab.md",
     "enme585/lab4/ENME 585 Lab 4 Prelab.md",
     "dsa/leetcode/287.md",
@@ -266,7 +223,6 @@
     "dsa/dynamic programming/FCC.md",
     "dsa/dynamic programming/Dynamic Programming.canvas",
     "career/Coffee Chat with Eric Peng.md",
-    "dsa/neetcode/Untitled.md",
     "DS&A/dynamic programming/Dynamic Programming.canvas",
     "ENEL 582/Untitled.canvas"
   ]
