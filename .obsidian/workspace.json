@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fa1ce62777a30e42",
+        "id": "5a564bc20ccb5f58",
         "type": "tabs",
         "children": [
           {
-            "id": "f9938e3e1ddfa861",
+            "id": "95fe1d56b1a203c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "atoms/TODO.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "atoms/TODO.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +167,13 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "f9938e3e1ddfa861",
+  "active": "95fe1d56b1a203c2",
   "lastOpenFiles": [
-    "atoms/Speech Bubble Templates.md",
+    "dsa/dynamic programming/FCC/allConstruct.md",
+    "dsa/dynamic programming/FCC/countConstruct.md",
+    "dsa/dynamic programming/FCC/canConstruct.md",
     "atoms/TODO.md",
+    "atoms/Speech Bubble Templates.md",
     "atoms/chatgpt prompts.md",
     "enel582/Stephen J. Chapman - Electric Machinery Fundamentals-McGraw-Hill (2012).pdf",
     "enel582/tutorials/tut1/tutorial 1.pdf",
@@ -197,7 +192,6 @@
     "atoms/Untitled 1.md",
     "atoms/Untitled.md",
     "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
-    "dsa/dynamic programming/FCC/countConstruct.md",
     "capstone/Design Review 1/ICR 2.md",
     "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR2.pdf",
     "enme585/lab5/ENME 585 Lab 5 Prelab.md",
@@ -209,8 +203,6 @@
     "dsa/6.006-spring-2020/static_shared/images/video_play_overlay.42e62ca534a2528e4ad0.png",
     "dsa/6.006-spring-2020/static_shared/images/search.ce7b9ae4cb539479557f.svg",
     "career/Tesla Referral.md",
-    "dsa/dynamic programming/FCC/allConstruct.md",
-    "dsa/dynamic programming/FCC/canConstruct.md",
     "dsa/dynamic programming/FCC/bestSum.md",
     "dsa/dynamic programming/FCC/canSum.md",
     "dsa/dynamic programming/FCC/howSum.md",
