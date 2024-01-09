@@ -1,0 +1,4 @@
+- add Jest or other web dev testing frameworks (google for popular ones)
+- add REST API
+- add Redux`
+
