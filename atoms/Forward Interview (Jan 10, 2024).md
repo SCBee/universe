@@ -30,8 +30,15 @@ foundings in 2017:
 - generalist approach
 	- applying to full stack but can't guarantee team/project/product I work on
 
-- 
+- 1 hour technical screen is next
+	- contacted by chelsea within the next 48 hours
+	- coding exercise
 
+- Natalie started at Forward 2.5 years ago
+- worked as consultant
+- likes that Forward works on projects that help people 
+
+- weekly staff meeting -> doctor shares success stories
 
 
 ![[Zachary_Uy_resume.pdf]]
