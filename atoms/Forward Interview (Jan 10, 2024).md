@@ -3,6 +3,8 @@ HR Lady: Chelsea Lopez
 
 interviewer: Natalie Fahey
 
+role: full stack software engineer
+
 Forward mission: -> highest quality hc for free
 
 foundings in 2017:
