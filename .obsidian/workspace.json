@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6f18b00fd03f6d7e",
+        "id": "bb1f0330e17fe661",
         "type": "tabs",
         "children": [
           {
-            "id": "0753d08cd82027a2",
+            "id": "e432cd628d15062b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "atoms/Forward Interview (Jan 10, 2024).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "177267cf97c20f67",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "atoms/Forward Interview (Jan 10, 2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "atoms/Forward Interview (Jan 10, 2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "atoms/Forward Interview (Jan 10, 2024).md"
+              }
             }
           },
           {
@@ -167,8 +176,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "0753d08cd82027a2",
+  "active": "e432cd628d15062b",
   "lastOpenFiles": [
+    "assets/images/Zachary_Uy_resume.pdf",
+    "atoms/Forward Interview (Jan 10, 2024).md",
     "atoms/Resume notes.md",
     "dsa/dynamic programming/FCC/allConstruct.md",
     "dsa/dynamic programming/FCC/countConstruct.md",
@@ -214,7 +225,6 @@
     "dsa/dynamic programming/neetcode/Climbing Stairs.md",
     "dsa/dynamic programming/FCC.md",
     "dsa/dynamic programming/Dynamic Programming.canvas",
-    "career/Coffee Chat with Eric Peng.md",
     "DS&A/dynamic programming/Dynamic Programming.canvas",
     "ENEL 582/Untitled.canvas"
   ]
