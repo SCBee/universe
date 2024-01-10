@@ -25,9 +25,12 @@ foundings in 2017:
 - some parts of healthcare needs to be in person
 	- weight, blood, etc.
 
+- 2 weeks cadence (pods -> mix of engg/design/operations)
+
+- generalist approach
+	- applying to full stack but can't guarantee team/project/product I work on
+
 - 
-
-
 
 
 
