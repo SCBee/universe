@@ -17,8 +17,10 @@ Development role --> Drivers for bare metal
 	- What is the stack and what is the heap?
 		- Follow up: What is a stack overflow?
 		- Follow up: How can we cause an overflow?
+		- Follow up: How can we cause a stack overflow from the heap?
 	- What bit manipulation technique can we use to shift the bits?
-		- How does it work? (i << n shifts i bits by n places)
+		- How does it work? (e.g., i << n shifts i bits by n places)
+		- How can this be used? What are some useful ways to use this?
 	- What is the time complexity of searching an unsorted linked list?
 		- Follow up: How would you optimize the search?
 		- Follow up: What data structures could we use to improve this more?
