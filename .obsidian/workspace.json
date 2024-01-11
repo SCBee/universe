@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbc5c6a6b70606a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "atoms/Qualcomm Interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms/Forward Interview (Jan 10, 2024).md",
+                "file": "atoms/Qualcomm Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms/Forward Interview (Jan 10, 2024).md",
+                "file": "atoms/Qualcomm Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atoms/Forward Interview (Jan 10, 2024).md"
+                "file": "atoms/Qualcomm Interview.md"
               }
             }
           },
@@ -176,10 +189,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "e432cd628d15062b",
+  "active": "fbc5c6a6b70606a7",
   "lastOpenFiles": [
-    "assets/images/Zachary_Uy_resume.pdf",
     "atoms/Forward Interview (Jan 10, 2024).md",
+    "atoms/Qualcomm Interview.md",
+    "assets/images/Zachary_Uy_resume.pdf",
     "atoms/Resume notes.md",
     "dsa/dynamic programming/FCC/allConstruct.md",
     "dsa/dynamic programming/FCC/countConstruct.md",
@@ -204,7 +218,6 @@
     "atoms/Untitled 1.md",
     "dsa/texts/Competitive Programmer’s Handbook (2019).pdf",
     "capstone/Design Review 1/ICR 2.md",
-    "capstone/Design Review 1/UY_ZACHARY_10139739_PROJECT_10 - ICR2.pdf",
     "enme585/lab5/ENME 585 Lab 5 Prelab.md",
     "enme585/lab4/ENME 585 Lab 4 Prelab.md",
     "dsa/leetcode/287.md",
