@@ -7,3 +7,8 @@ Office: Markham, ON (600 Engineers on this site)
 			- The software side though
 
 Development role --> Drivers for bare metal
+
+volatile --> don't cache this variable
+
+bit shift --> 
+
