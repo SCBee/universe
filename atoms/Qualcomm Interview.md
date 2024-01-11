@@ -10,4 +10,6 @@ Development role --> Drivers for bare metal
 
 volatile --> don't cache this variable
 
-initial interviews (40-45 mins) --> 2nd round (technical, 2-3 panelists) 
+initial interviews (40-45 mins) --> 2nd round (technical, 2-3 panelists)
+	-> system design / debugging
+	-> 
