@@ -32,25 +32,3 @@ volatile --> don't cache this variable
 initial interviews (40-45 mins) --> 2nd round (technical, 2-3 panelists)
 	-> system design / debugging
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
