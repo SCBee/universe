@@ -24,8 +24,33 @@ Development role --> Drivers for bare metal
 	- What is the time complexity of searching an unsorted linked list?
 		- Follow up: How would you optimize the search?
 		- Follow up: What data structures could we use to improve this more?
-	
+
+
+
 volatile --> don't cache this variable
 
 initial interviews (40-45 mins) --> 2nd round (technical, 2-3 panelists)
 	-> system design / debugging
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
