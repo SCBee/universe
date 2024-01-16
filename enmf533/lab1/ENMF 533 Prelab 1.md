@@ -46,6 +46,18 @@
 - unsigned int
 - long
 - unsigned long
-- 
+- float
+- double
 
 1. Explain the operation of the DigitalWrite command.
+
+- Takes two arguments: (pin, value)
+
+- pin is OUTPUT:
+	- the function changes the voltage state with the corresponding pin number.
+	- value := {HIGH, LOW}
+	- HIGH means the pin will have a voltage of 5V or 3.3V.
+	- LOW means the pin will have a voltage of 0V.
+
+- pin is INPUT:
+	- 
