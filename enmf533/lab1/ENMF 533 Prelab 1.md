@@ -5,11 +5,18 @@
 
 2. Explain the purpose of the void setup() command.  
 
-- Initialize the states on the various 
+- Initialise the states on the various Arduino features like pins and serial communication.
+- The setup function is executed once per Arduino reset and at the beginning.
 
-3. Explain the purpose of the void loop() command.  
-4. What symbol is used to compare two values (and returns TRUE if they are equal)?  
-5. What are the two types of input and output pins on an Arduino board?  
-6. What are two ways that you can add a library to the Arduino IDE?  
-7. List the 9 data types that can be defined in an Arduino program.  
-8. Explain the operation of the DigitalWrite command.
+3. Explain the purpose of the void loop() command.
+
+- Execute logic that we want to perform continuously throughout the Arduino's operation.
+
+4. What symbol is used to compare two values (and returns TRUE if they are equal)?
+
+- The equality operator is `==`, which will return true if both 
+
+1. What are the two types of input and output pins on an Arduino board?  
+2. What are two ways that you can add a library to the Arduino IDE?  
+3. List the 9 data types that can be defined in an Arduino program.  
+4. Explain the operation of the DigitalWrite command.
