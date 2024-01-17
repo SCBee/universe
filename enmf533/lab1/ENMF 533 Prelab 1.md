@@ -37,7 +37,7 @@
 
 
 
-1. List the 9 data types that can be defined in an Arduino program.
+7. List the 9 data types that can be defined in an Arduino program.
 
 - boolean
 - char
@@ -49,15 +49,21 @@
 - float
 - double
 
-1. Explain the operation of the DigitalWrite command.
+
+
+8. Explain the operation of the DigitalWrite command.
 
 - Takes two arguments: (pin, value)
+- pin is the number associated with the pin we want to manage
+- value is the state of the pin, and can have a value of HIGH or LOW.
+	- the effect of the value depends on if the pin we are managing is an INPUT or OUTPUT pin.
 
 - pin is OUTPUT:
 	- the function changes the voltage state with the corresponding pin number.
-	- value := {HIGH, LOW}
 	- HIGH means the pin will have a voltage of 5V or 3.3V.
 	- LOW means the pin will have a voltage of 0V.
 
 - pin is INPUT:
-	- 
+	- the function changes the corresponding pin's internal pull-up resistor.
+	- HIGH means the pullup is enabled.
+	- LOW means the pullup is disabled.
