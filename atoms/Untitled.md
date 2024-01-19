@@ -22,4 +22,4 @@ Generative AI can be beneficial to the workplace.
 
 I think that AI has the potential to improve workflows by automating tedious and repetitive tasks and helping with debugging. Also, it can greatly aid the brainstorming and design process for many problems and situations.
 
-However, it should be adopted cautiously since the response 
+However, it should be adopted cautiously since the responses can be wholly inaccurate or cause more issues than it fixes. Overall, I think that generative AI is a great tool and will significantly impact the workplace but businesses should understand its limitations.
