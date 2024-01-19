@@ -18,6 +18,8 @@ For a business with long-lasting products, I believe that TDD is essential for l
 
 3. What is your opinion of generative AI in the workplace?
 
-Generative AI can be beneficial or detrimental to the workplace.
+Generative AI can be beneficial to the workplace.
 
-I think that AI has the potential to improve workflows by automating tedious and repetitive tasks, but 
+I think that AI has the potential to improve workflows by automating tedious and repetitive tasks and helping with debugging. Also, it can greatly aid the brainstorming and design process for many problems and situations.
+
+However, it should be adopted cautiously since the response 
