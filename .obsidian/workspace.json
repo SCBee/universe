@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e8a979d13f07358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "atoms/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f191a3a4f3a7c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "atoms/Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2b98ca60a256ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "atoms/Untitled 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms/Untitled.md",
+                "file": "atoms/Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms/Untitled.md",
+                "file": "atoms/Untitled 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atoms/Untitled.md"
+                "file": "atoms/Untitled 3.md"
               }
             }
           },
@@ -175,8 +212,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "a754e85479b04894",
+  "active": "d2b98ca60a256ec2",
   "lastOpenFiles": [
+    "atoms/Untitled 2.md",
+    "atoms/Untitled 3.md",
+    "atoms/Untitled 1.md",
     "atoms/Untitled.md",
     "enmf533/lab1/ENMF 533 Prelab 1.md",
     "enmf533/lab3",
@@ -204,7 +244,6 @@
     "fall2023/enel582/tutorials/tut3/tutorial 3 image2.jpeg",
     "fall2023/enel582/tutorials/tut3/tutorial 3 image1.jpeg",
     "fall2023/enel582/tutorials/tut3/tutorial 3 image0.jpeg",
-    "atoms/Untitled 1.md",
     "capstone/Design Review 1/ICR 2.md",
     "fall2023/enme585/lab5/ENME 585 Lab 5 Prelab.md",
     "fall2023/enme585/lab4/ENME 585 Lab 4 Prelab.md",
@@ -221,8 +260,6 @@
     "dsa/dynamic programming/FCC/Memoization.md",
     "dsa/dynamic programming/Approaches.md",
     "dsa/dynamic programming/Elementary Problem.md",
-    "dsa/dynamic programming/What is DP?.md",
-    "dsa/dynamic programming/neetcode/Climbing Stairs 1.md",
     "dsa/dynamic programming/Dynamic Programming.canvas",
     "DS&A/dynamic programming/Dynamic Programming.canvas",
     "ENEL 582/Untitled.canvas"
