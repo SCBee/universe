@@ -11,8 +11,12 @@
             "id": "a754e85479b04894",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "atoms/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "atoms/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "atoms/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "atoms/Untitled.md"
+              }
             }
           },
           {
@@ -169,6 +177,7 @@
   },
   "active": "a754e85479b04894",
   "lastOpenFiles": [
+    "atoms/Untitled.md",
     "enmf533/lab1/ENMF 533 Prelab 1.md",
     "enmf533/lab3",
     "enmf533/lab2",
