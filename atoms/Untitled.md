@@ -14,14 +14,10 @@ I view TDD as a critical part of modern software development, especially in larg
 
 First, TDD helps to maintain backwards compatibility with existing features. Second, the codebase is more maintainable and produces more robust software over time. Third, it pushes the developers and architects to thoroughly design their solution before implementation leading to better architecture and modularity.
 
-For a business with long-lasting products, I believe that TDD is essential since its impact becomes more and more prominent as the project grows. 
-
-
-
-First and foremost, TDD provides a safety net for code changes. Writing tests before the actual code ensures that any modifications won't break existing functionality. This results in more maintainable and robust software over time. Additionally, TDD encourages developers to think deeply about the design of their code upfront, fostering better architecture and modularity.
-
-From a business perspective, TDD can lead to faster development cycles and reduced debugging time. While there's an initial investment in writing tests, the overall development process becomes more efficient as it progresses. This can contribute to delivering high-quality software within shorter time frames.
-
-Overall, I view TDD as a valuable practice that not only improves code quality but also contributes to the long-term success of business software projects
+For a business with long-lasting products, I believe that TDD is essential for long-term success because it leads to an improved product, faster development cycles, reduced debugging time, and more satisfied users.
 
 3. What is your opinion of generative AI in the workplace?
+
+Generative AI can be beneficial or detrimental to the workplace.
+
+I think that AI has the potential to improve workflows by automating tedious and repetitive tasks, but 
