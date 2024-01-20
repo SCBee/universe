@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "878272cf59a64d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "atoms/Untitled 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms/Untitled 4.md",
+                "file": "atoms/Untitled 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms/Untitled 4.md",
+                "file": "atoms/Untitled 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atoms/Untitled 4.md"
+                "file": "atoms/Untitled 5.md"
               }
             }
           },
@@ -224,12 +236,13 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "3d033f22458e31b7",
+  "active": "878272cf59a64d31",
   "lastOpenFiles": [
+    "atoms/Untitled 1.md",
+    "atoms/Untitled 2.md",
+    "atoms/Untitled 5.md",
     "atoms/Untitled 3.md",
     "atoms/Untitled 4.md",
-    "atoms/Untitled 2.md",
-    "atoms/Untitled 1.md",
     "atoms/Untitled.md",
     "enmf533/lab1/ENMF 533 Prelab 1.md",
     "enmf533/lab3",
@@ -271,7 +284,6 @@
     "dsa/dynamic programming/FCC/canSum.md",
     "dsa/dynamic programming/FCC/howSum.md",
     "dsa/dynamic programming/FCC/Memoization.md",
-    "dsa/dynamic programming/Approaches.md",
     "dsa/dynamic programming/Dynamic Programming.canvas",
     "DS&A/dynamic programming/Dynamic Programming.canvas",
     "ENEL 582/Untitled.canvas"
