@@ -7,3 +7,4 @@ I was paired with a trader who knew the ins and outs of the operations at our fa
 Developed MVP in Python while collaborating with the production and trading teams to verify the tool's accuracy and effectiveness in real-world scenarios.
 
 Utilized ZeroMQ for low-latency messaging to provide pub-sub communication for facility and market data streams, chosen for its efficiency in data transmission size, reliability and fault tolerance.
+
