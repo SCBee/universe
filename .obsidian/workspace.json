@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms/Untitled 1.md",
+                "file": "atoms/Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms/Untitled 1.md",
+                "file": "atoms/Untitled 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atoms/Untitled 1.md"
+                "file": "atoms/Untitled 3.md"
               }
             }
           },
@@ -212,12 +212,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "8e8a979d13f07358",
+  "active": "d2b98ca60a256ec2",
   "lastOpenFiles": [
-    "atoms/Untitled.md",
-    "atoms/Untitled 1.md",
     "atoms/Untitled 2.md",
     "atoms/Untitled 3.md",
+    "atoms/Untitled 1.md",
+    "atoms/Untitled.md",
     "enmf533/lab1/ENMF 533 Prelab 1.md",
     "enmf533/lab3",
     "enmf533/lab2",
